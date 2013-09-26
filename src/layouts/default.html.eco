@@ -47,11 +47,11 @@
 <div class="content pure-g-r">
 	<div class="header pure-u-1">
 		<div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
-			<a class="pure-menu-heading" href="/">Your Site</a>
-
+			<a class="pure-menu-heading" href="/">Readk.it</a>
 			<ul>
-				<li class="pure-menu-selected"><a href="/">Home</a></li>
-				<li><a href="#">Tour</a></li>
+				<li><a href="../readk.it/readkit_a_manifesto_readk_it__a_manifesto.html">Readk.it Manifesto</a></li>
+				<li><a href="../readk.it/readkit.library/library/library.html">Readk.it Library</a></li>
+				<li><a href="../readk.it/readkit.reader/readkit.reader.html">Readk.it Reader</a></li>
 				<% for document in @getCollection('pages').toJSON(): %>
 					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
 						<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
@@ -64,8 +64,7 @@
 	<%- @content %>
 
 	<div class="footer pure-u-1">
-		View the source of this layout to learn more. Made with love by the YUI Team. 
-		&copy; Company <%- (new Date()).getFullYear() %>.
+		Made with <a href="http://docpad.org/">DocPad</a>.
 		This website was last updated at <%= @site.date.toISOString() %>
 	</div>
 </div>

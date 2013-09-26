@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://localhost:9778"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
@@ -21,7 +21,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Readk.it"
 
 			# The website description (for SEO)
 			description: """
@@ -34,15 +34,16 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Jason Darwin"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "jcdarwin@gmail.com"
 
 			# Styles
 			styles: [
 				"http://yui.yahooapis.com/pure/0.2.0/pure-min.css"
-				"styles/style.css"
+				"../../styles/style.css"
+				"../../styles/fontello.css"
 			]
 
 			# Scripts

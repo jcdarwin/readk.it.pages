@@ -1,0 +1,13 @@
+---
+title: Readk.it Solo
+layout: post
+pageOrder: 2
+---
+
+<nav class="linklist">
+	<% for document in @getFilesAtPath('../readk.it/readkit.library/library/solo').toJSON(): %>
+        <% if document.extension == 'html': %>
+    		<li><a href="<%= document.url %>.<%= document.extension %>"><%= document.filename %></a></li>
+        <% end %>
+	<% end %>
+</nav>
