@@ -41,14 +41,15 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"http://yui.yahooapis.com/pure/0.2.0/pure-min.css"
+				"http://yui.yahooapis.com/pure/0.3.0/pure-min.css"
+				"../../styles/responsive-nav.css"
 				"../../styles/style.css"
 				"../../styles/fontello.css"
 			]
 
 			# Scripts
 			scripts: [
-				"scripts/script.js"
+				# "scripts/responsive-nav.min.js"
 			]
 
 
