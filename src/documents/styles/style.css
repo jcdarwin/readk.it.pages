@@ -246,7 +246,7 @@ a.hero-link:active {
 
 @media screen and (min-width: 40em) {
     .nav-collapse li {
-        width: 20%;
+        width: 16.666%;
         *width: 19.9%; /* IE7 Hack */
         _width: 19%; /* IE6 Hack */
     }
@@ -273,7 +273,7 @@ a.hero-link:active {
     }
 }
 
-@media screen and (max-width: 54em) {
+@media screen and (max-width: 55.7em) {
     .nav-collapse ul li a {
         height: 5.2em;
     }

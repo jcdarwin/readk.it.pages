@@ -50,7 +50,7 @@
 		<nav class="nav-collapse">
 			<ul>
 				<li><a href="../../index.html">Home</a></li>
-				<li><a href="../../dist/readkit.library/library/solo/readkit_a_manifesto_readk_it__a_manifesto.html">Readk.it Manifesto</a></li>
+				<li><a href="../../dist/readkit.library/library/solo/readkit_a_manifesto_readk_it__a_manifesto.html">Manifesto</a></li>
 				<% for document in @getCollection('pages').toJSON(): %>
 					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
 						<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
