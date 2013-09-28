@@ -290,7 +290,7 @@ a.hero-link:active {
     float: right;
     text-indent: -9999px;
     overflow: hidden;
-    background: #f2f2f2 url("../../icons/hamburger.png") no-repeat 50% 33%;
+    background: #f2f2f2 url("../../images/hamburger.png") no-repeat 50% 33%;
     margin-bottom:1em;
 }
 
@@ -302,7 +302,7 @@ a.hero-link:active {
     and (min-resolution: 192dpi), screen 
     and (min-resolution: 2dppx) {
     .nav-toggle {
-        background-image: url("../../icons/hamburger-retina.png");
+        background-image: url("../../images/hamburger-retina.png");
         -webkit-background-size: 100px 100px;
         -moz-background-size: 100px 100px;
         -o-background-size: 100px 100px;
