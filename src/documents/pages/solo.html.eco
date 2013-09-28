@@ -1,19 +1,19 @@
 ---
 title: Readk.it Solo
-layout: post
+layout: solo
 pageOrder: 2
 ---
 
 <nav class="linklist">
-    <% for document in JSON.parse @include('../readk.it/readkit.library/library/manifest.json'): %>
+    <% for document in JSON.parse @include('../dist/readkit.library/library/manifest.json'): %>
         <div class="solo-pod">
-            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>"><img src="../readk.it/readkit.library/library/<%= document.cover %>" /></a>
+            <a href="../dist/readkit.library/library/solo/<%= document.solo %>"><img src="../dist/readkit.library/library/<%= document.cover %>" /></a>
             <br />
-            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>">Read</a>
+            <a href="../dist/readkit.library/library/solo/<%= document.solo %>">Read</a>
             &nbsp;|&nbsp;
-            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>">Download</a>
+            <a href="../dist/readkit.solo/<%= document.solo.replace /\.html/, ".zip"  %>">Download</a>
             <!--
-            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>"><%= document.name %></a>
+            <a href="../dist/readkit.library/library/solo/<%= document.solo %>"><%= document.name %></a>
             -->
         </div>
     <% end %>

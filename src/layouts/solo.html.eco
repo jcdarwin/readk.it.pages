@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+    <div class="content pure-u-1">
+        <div class="pure-g-r content-ribbon">
+            <div class="pure-u-1">
+				<h1><%= @document.title %></h1>
+				<div class="post-content"><%- @content %></div>
+	        </div>
+        </div>
+    </div>
