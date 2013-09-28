@@ -38,7 +38,8 @@
     "docpad-plugin-related": "2.x",
     "docpad-plugin-text": "2.x",
     "docpad-plugin-geturl": "2.x",
-    "docpad-plugin-services": "~2.3.0"
+    "docpad-plugin-services": "~2.3.0",
+    "docpad-plugin-ghpages": "~2.4.0"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"
