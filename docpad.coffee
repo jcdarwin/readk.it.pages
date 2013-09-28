@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://localhost:9778"
+			url: "http://readk.it"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
@@ -25,12 +25,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				Readk.it is a responsive EPUB reading system taking advantage of the abilities of modern web browsers to allow an attractive reading experience on all manner of devices. Readk.it is free for all to use and adapt.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				Readk.it, EPUB, responsive, reading system
 				"""
 
 			# The website author's name
@@ -52,6 +52,12 @@ docpadConfig = {
 				# "scripts/responsive-nav.min.js"
 			]
 
+			# Services: https://github.com/docpad/docpad-plugin-services
+			services:
+				twitterTweetButton: "nzmebooks"
+				twitterFollowButton: "nzmebooks"
+				githubFollowButton: "jcdarwin"
+				googleAnalytics: "UA-35204180-2"
 
 
 		# -----------------------------

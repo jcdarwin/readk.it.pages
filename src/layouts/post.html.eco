@@ -5,10 +5,8 @@ layout: default
     <div class="content pure-u-1">
         <div class="pure-g-r content-ribbon">
             <div class="pure-u-1">
-				<article id="post" class="post">
-					<h1><%= @document.title %></h1>
-					<div class="post-content"><%- @content %></div>
-				</article>
+				<h1><%= @document.title %></h1>
+				<div class="post-content"><%- @content %></div>
 	        </div>
         </div>
     </div>

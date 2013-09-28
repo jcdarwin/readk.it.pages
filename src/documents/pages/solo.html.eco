@@ -5,11 +5,16 @@ pageOrder: 2
 ---
 
 <nav class="linklist">
-    <pre><% JSON.parse(@getFile('../readk.it/readkit.library/library/manifest.json')) %></pre>
-
-	<% for document in @getFilesAtPath('../readk.it/readkit.library/library/solo').toJSON(): %>
-        <% if document.extension == 'html': %>
-    		<li><a href="<%= document.url %>.<%= document.extension %>"><%= document.filename %></a></li>
-        <% end %>
-	<% end %>
+    <% for document in JSON.parse @include('../readk.it/readkit.library/library/manifest.json'): %>
+        <div class="solo-pod">
+            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>"><img src="../readk.it/readkit.library/library/<%= document.cover %>" /></a>
+            <br />
+            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>">Read</a>
+            &nbsp;|&nbsp;
+            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>">Download</a>
+            <!--
+            <a href="../readk.it/readkit.library/library/solo/<%= document.solo %>"><%= document.name %></a>
+            -->
+        </div>
+    <% end %>
 </nav>
