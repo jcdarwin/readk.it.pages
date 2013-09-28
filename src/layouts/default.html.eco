@@ -49,15 +49,15 @@
 	<div class="header pure-u-1">
 		<nav class="nav-collapse">
 			<ul>
-				<li><a href="../index.html">Home</a></li>
-				<li><a href="../dist/readkit.library/library/solo/readkit_a_manifesto_readk_it__a_manifesto.html">Readk.it Manifesto</a></li>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../dist/readkit.library/library/solo/readkit_a_manifesto_readk_it__a_manifesto.html">Readk.it Manifesto</a></li>
 				<% for document in @getCollection('pages').toJSON(): %>
 					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
 						<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
 					</li>
 				<% end %>
-				<li><a href="../dist/readkit.library/library/library.html">Readk.it Library</a></li>
-				<li><a href="../dist/readkit.reader/readkit.reader.html">Readk.it Reader</a></li>
+				<li><a href="../../dist/readkit.library/library/library.html">Readk.it Library</a></li>
+				<li><a href="../../dist/readkit.reader/readkit.reader.html">Readk.it Reader</a></li>
 			</ul>
 		</nav>
 	</div>
