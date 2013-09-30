@@ -4,6 +4,16 @@ layout: solo
 pageOrder: 1
 ---
 
+<p>Each publication listed on this page is a Readk.it Solo file, being a single HTML file containing all content from an EPUB along with the Readk.it reading system. These publications can be read in one of two ways:</p>
+
+<ol>
+    <li>Choose the <em>Read</em> link to start reading the web-served version in your browser</li>
+    <li>Download and extract the zipped version, and then double-click the html file to open the it in a browser (i.e. using a file URL)</li>
+</ol>
+
+<p>Once a publication is open in the browser, any other EPUB file can be dragged and dropped onto the browser window to begin reading it using Readk.it.</p>
+
+
 <nav class="linklist">
     <% for document in JSON.parse @include('../dist/readkit.library/library/manifest.json'): %>
         <div class="solo-pod">

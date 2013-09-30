@@ -4,12 +4,19 @@ title: '500 Internal Server Error'
 dynamic: true
 ---
 
-<div class="hero-unit">
-	<h1>500 Internal Server Error</h1>
-	<p>
-		Ooops! Something went wrong while we were processing your request to <code><%= @req.url %></code>. Here's the details:
-	</p>
-	<p>
-		<pre><%= @err.message or @err.stack %></pre>
-	</p>
+<div class="splash pure-u-1">
+    <div class="hero-unit">
+        <div class="l-box splash-text">
+            <h1 class="splash-head">500 Internal Server Error</h1>
+            <h2 class="splash-subhead">
+                Ooops! Something went wrong while we were processing your request to <code><%= @req.url %></code>. Here's the details:
+            </h2>
+            <p>
+                <pre><%= @err.message or @err.stack %></pre>
+            </p>
+        </div>
+        <div class="l-box error">
+            <i class="hero-icon icon-asl"></i>
+        </div>
+    </div>
 </div>

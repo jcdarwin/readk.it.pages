@@ -5,10 +5,16 @@
   "hinting": true,
   "glyphs": [
     {
-      "uid": "31972e4e9d080eaa796290349ae6c1fd",
-      "css": "users",
+      "uid": "53ed8570225581269cd7eff5795e8bea",
+      "css": "emo-unhappy",
       "code": 59408,
-      "src": "fontawesome"
+      "src": "fontelico"
+    },
+    {
+      "uid": "f0d3ad15d020cf187d42dd3b2295b65c",
+      "css": "emo-angry",
+      "code": 59416,
+      "src": "fontelico"
     },
     {
       "uid": "2c413e78faf1d6631fd7b094d14c2253",

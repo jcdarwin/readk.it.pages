@@ -34,6 +34,10 @@ body,
     padding: 1em;
 }
 
+.error {
+    text-align: center;
+}
+
 .header {
     margin: 0 0;
 }
@@ -56,24 +60,24 @@ body .primary-button {
 
 .splash {
     margin: 0 auto;
-    padding: 3em 0.5em 0 0.5em;
+    padding: 1.5em 0 0.5em 0;
     background: #E1E1E1;
     border-bottom-left-radius: 0.2em;
     border-bottom-right-radius: 0.2em;
 }
-    .splash .splash-head {
-        font-size: 300%;
-        margin: 0em 0;
-        line-height: 1.2em;
-    }
-    .splash .splash-subhead {
-        color: #999;
-        font-weight: 300;
-        line-height: 1.4em;
-    }
-    .splash .primary-button {
-        font-size: 150%;
-    }
+.splash .splash-head {
+    font-size: 300%;
+    margin: 0em 0;
+    line-height: 1.2em;
+}
+.splash .splash-subhead {
+    color: #999;
+    font-weight: 300;
+    line-height: 1.4em;
+}
+.splash .primary-button {
+    font-size: 150%;
+}
 
 .content {
     max-width: 1024px;
@@ -157,6 +161,10 @@ a:active {
     text-decoration: none;
 }
 
+a.hero-link {
+    border-radius: 0.2em;
+}
+
 a.hero-link:link, a.hero-link:visited {
     color: #ffffff;
 }
@@ -169,26 +177,55 @@ a.hero-link:active {
     color: #ffffff;
 }
 
-.color-box h2 {
+.color-box a.header {
+    width: 100%;
     color: #ffffff;
+    margin-top: 1em;
     padding: 0.5em;
     border-radius: 0.2em;
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+}
+
+.color-box a.header {
+    color: #ffffff;
 }
 
 .solo {
     background-color: #cc333f;
 }
 
-.library{
+a.solo:hover, a.solo:focus {
+    color: #f2f2f2;
+    background-color: #bf2632;
+}
+
+.library {
     background-color: #eb6841;
+}
+
+a.library:hover, a.library:focus {
+    color: #f2f2f2;
+    background-color: #de5b34;
 }
 
 .epub {
     background-color: #fbb829;
 }
 
+a.epub:hover, a.epub:focus {
+    color: #f2f2f2;
+    background-color: #eeab1c;
+}
+
 .reader {
     background-color: #6a4a3c;
+}
+
+a.reader:hover, a.reader:focus {
+    color: #f2f2f2;
+    background-color: #5d3d2f;
 }
 
 /*
@@ -237,6 +274,10 @@ a.hero-link:active {
     list-style: none;
     width: 100%;
     float: left;
+}
+
+.nav-collapse ul li:last-child a {
+    border: none;
 }
 
 .nav-collapse li {

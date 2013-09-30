@@ -4,9 +4,16 @@ title: '404 Not Found'
 dynamic: true
 ---
 
-<div class="hero-unit">
-	<h1>404 Not Found</h1>
-	<p>
-		Ooops! It looks like the document you requested at <code><%= @req.url %></code> couldn't be found.
-	</p>
+<div class="splash pure-u-1">
+    <div class="hero-unit">
+        <div class="l-box splash-text">
+        	<h1 class="splash-head">404 Not Found</h1>
+        	<h2 class="splash-subhead">
+        		Ooops! It looks like the document you requested at <code><%= @req.url %></code> couldn't be found.
+        	</h2>
+        </div>
+        <div class="l-box error">
+            <i class="hero-icon icon-cloud"></i>
+        </div>
+    </div>
 </div>

@@ -4,6 +4,19 @@ layout: solo
 pageOrder: 2
 ---
 
+<p>The EPUB files listed on this page contain Readkit, meaning they will function as conventional EPUB files, readable in all compliant EPUB reading systems.</p>
+
+<p>However, they can also be opened for reading in a browser as follows:</p>
+
+<ol>
+    <li>Unzip the EPUB</li>
+    <li>Web-serve the EPUB from the its root directory</li>
+    <li>In a browser, navigate to the Readk.it index.html file, e.g. <a href="http://localhost:8000/OEBPS/readk.it/index.html">http://localhost:8000/OEBPS/readk.it/index.html</a></li>
+</ol>
+
+<p>Once a publication is open in the browser, any other EPUB file can be dragged and dropped onto the browser window to begin reading it using Readk.it.</p>
+
+
 <nav class="linklist">
     <% for document in JSON.parse @include('../dist/readkit.library/library/manifest.json'): %>
         <div class="solo-pod">
