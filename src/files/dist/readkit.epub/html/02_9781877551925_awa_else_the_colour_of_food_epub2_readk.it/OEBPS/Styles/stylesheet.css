@@ -1,0 +1,92 @@
+body {
+	font-family: serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+	line-height: 1.2em;
+	text-align: left;
+	text-indent: 1em;
+	margin: 5em .5em 0em .5em;
+	padding: 0;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+p.recipe-noindent {
+	text-indent: 0em;
+	margin: 0em 0em 0.3em 0em;
+}
+p.first-paras {
+	text-indent: 0em;
+}
+p.center {
+	text-indent: 0em;
+	text-align: center;
+}
+p.heading {
+	font-family: san-serif;
+	font-weight: bold;
+	font-size: 2em;
+	line-height: 1.2em;
+	text-align: center;
+	margin: 3em 0em 3em 0em;
+}
+p.heading2 {
+	font-family: san-serif;
+	font-weight: bold;
+	font-size: 1.6em;
+	line-height: 1.2em;
+	text-align: center;
+	margin: 2em 0em 2em 0em;
+}
+p.heading3 {
+	font-family: san-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	text-align: center;
+	margin: 1.5em 0em 1.5em 0em;
+}
+p.introoutro {
+	font-style: italic;
+	text-indent: 0em;
+}
+p.recipetitle {
+	font-weight: bold;
+	font-family: san-serif;
+	text-indent: 0em;
+}
+p.dingus {
+	text-indent: 0em;
+	text-align: center;
+	margin: 3em 0em 3em 0em;	
+}
+p.lists {
+	text-indent: 1.5em;
+}
+span.italic {
+	font-style: italic;
+}
+span.bold {
+	font-weight: bold;
+}
+span.roman {
+	font-style: normal;
+}
+span.smallcaps {
+	font-size: 80%;
+}
+span.italicsmallcaps {
+	font-style: italic;
+	font-size: 80%;
+}
+
+.copyright-top {
+	margin-top:4em;
+	margin-bottom:0em;
+	text-align:center;
+}
+.copyright1{
+	margin-top: 1em;
+}

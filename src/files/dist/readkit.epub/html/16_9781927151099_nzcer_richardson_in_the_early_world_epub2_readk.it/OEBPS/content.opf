@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<dc:title>In the Early World</dc:title>
+		<dc:creator>Elwyn S. Richardson</dc:creator>
+		<dc:language xsi:type="dcterms:RFC3066">en</dc:language>
+		<dc:rights>&#169; The New Zealand Council for Educational Research</dc:rights>
+		<dc:publisher>NZCER</dc:publisher>
+		<dc:identifier id="bookid">9781927151099</dc:identifier>
+		<meta name="cover" content="front_cover">
+		<!-- <x-metadata><EmbeddedCover>images\front.jpg</EmbeddedCover></x-metadata> -->
+	</meta></metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="style" href="stylesheet.css" media-type="text/css"/>
+		<item id="coverstyle" href="coverstyle.css" media-type="text/css"/>
+		<item id="pagetemplate" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" fallback="style"/>
+		<item id="front" href="front.html" media-type="application/xhtml+xml"/>
+		<item id="frontispiece" href="frontispiece.html" media-type="application/xhtml+xml"/>
+		<item id="title" href="title_page.html" media-type="application/xhtml+xml"/>
+		<item id="copyright" href="copyright.html" media-type="application/xhtml+xml"/>
+		<item id="forward_new" href="forward_new.html" media-type="application/xhtml+xml"/>
+		<item id="forward" href="forward.html" media-type="application/xhtml+xml"/>
+		<item id="publisher" href="publisher.html" media-type="application/xhtml+xml"/>
+		<item id="dedication" href="dedication.html" media-type="application/xhtml+xml"/>
+		<item id="intro" href="intro.html" media-type="application/xhtml+xml"/>
+		<item id="chap02" href="chap02.html" media-type="application/xhtml+xml"/>
+		<item id="chap08" href="chap08.html" media-type="application/xhtml+xml"/>
+		<item id="more" href="more.html" media-type="application/xhtml+xml"/>
+		<item id="frontispiece_image" href="images/frontispiece.jpg" media-type="image/jpeg"/>
+		<item id="foreword" href="images/foreword.jpg" media-type="image/jpeg"/>
+		<item id="kina" href="images/kina.jpg" media-type="image/jpeg"/>
+		<item id="p19a" href="images/p19a.jpg" media-type="image/jpeg"/>
+		<item id="p19b" href="images/p19b.jpg" media-type="image/jpeg"/>
+		<item id="p19c" href="images/p19c.jpg" media-type="image/jpeg"/>
+		<item id="p115a" href="images/p115a.jpg" media-type="image/jpeg"/>
+		<item id="p115b" href="images/p115b.jpg" media-type="image/jpeg"/>
+		<item id="p677" href="images/p677.jpg" media-type="image/jpeg"/>
+		<item id="p681" href="images/p681.jpg" media-type="image/jpeg"/>
+		<item id="p698" href="images/p698.jpg" media-type="image/jpeg"/>
+		<item id="p701" href="images/p701.jpg" media-type="image/jpeg"/>
+		<item id="p702" href="images/p702.jpg" media-type="image/jpeg"/>
+		<item id="p703" href="images/p703.jpg" media-type="image/jpeg"/>
+		<item id="p705" href="images/p705.jpg" media-type="image/jpeg"/>
+		<item id="p705a" href="images/p705a.jpg" media-type="image/jpeg"/>
+		<item id="p706" href="images/p706.jpg" media-type="image/jpeg"/>
+		<item id="p707" href="images/p707.jpg" media-type="image/jpeg"/>
+		<item id="p712" href="images/p712.jpg" media-type="image/jpeg"/>
+		<item id="p713" href="images/p713.jpg" media-type="image/jpeg"/>
+		<item id="p714" href="images/p714.jpg" media-type="image/jpeg"/>
+		<item id="p800" href="images/p800.jpg" media-type="image/jpeg"/>
+		<item id="p803" href="images/p803.jpg" media-type="image/jpeg"/>
+		<item id="p885" href="images/p885.jpg" media-type="image/jpeg"/>
+		<item id="front_cover" href="images/front.jpg" media-type="image/jpeg"/>
+		<item id="title_page" href="images/title_page.jpg" media-type="image/jpeg"/>
+	
+            <!-- './readk.it'  -->
+                <item id="readk_it_favicon_ico" href="readk.it/favicon.ico" media-type="image/vnd.microsoft.icon"/>
+                <item id="readk_it_index_html" href="readk.it/index.html" media-type="text/plain"/>
+                <item id="readk_it_offline_manifest" href="readk.it/offline.manifest" media-type="text/plain"/>
+            <!-- './readk.it/css'  -->
+                <item id="readk_it_css_fontello_css" href="readk.it/css/fontello.css" media-type="text/plain"/>
+                <item id="readk_it_css_screen_css" href="readk.it/css/readkit-screen.css" media-type="text/plain"/>
+                <item id="readk_it_css_drag_and_drop_css" href="readk.it/css/drag_and_drop.css" media-type="text/plain"/>
+                <item id="readk_it_css_add-to-homescreen_style_add2home_css" href="readk.it/css/add2home.css" media-type="text/plain"/>
+            <!-- './readk.it/fonts'  -->
+            <!-- './readk.it/fonts/fontello'  -->
+            <!-- './readk.it/fonts/fontello/font'  -->
+                <item id="readk_it_fonts_fontello_font_fontello_ttf" href="readk.it/fonts/fontello/font/fontello.ttf" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_fontello_font_fontello_woff" href="readk.it/fonts/fontello/font/fontello.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/Lora'  -->
+                <item id="readk_it_fonts_Lora_Lora-Bold_woff" href="readk.it/fonts/Lora/Lora-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-BoldItalic_woff" href="readk.it/fonts/Lora/Lora-BoldItalic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-Italic_woff" href="readk.it/fonts/Lora/Lora-Italic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora_woff" href="readk.it/fonts/Lora/Lora.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/SourceSansPro'  -->
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Bold_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-BoldIt_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-BoldIt.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-It_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-It.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Regular_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Regular.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/images'  -->
+                <item id="readk_it_images_apple-touch-icon-114x114_png" href="readk.it/images/apple-touch-icon-114x114.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-144x144_png" href="readk.it/images/apple-touch-icon-144x144.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-57x57_png" href="readk.it/images/apple-touch-icon-57x57.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-72x72_png" href="readk.it/images/apple-touch-icon-72x72.png" media-type="image/png"/>
+                <item id="readk_it_images_site_preloader_gif" href="readk.it/images/site_preloader.gif" media-type="image/gif"/>
+                <item id="readk_it_images_spinner_gif" href="readk.it/images/spinner.gif" media-type="image/gif"/>
+                <item id="readk_it_images_apple-touch-startup-image-320x460_png" href="readk.it/images/apple-touch-startup-image-320x460.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x920_png" href="readk.it/images/apple-touch-startup-image-640x920.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x1096_png" href="readk.it/images/apple-touch-startup-image-640x1096.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-748x1024_png" href="readk.it/images/apple-touch-startup-image-748x1024.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-768x1004_png" href="readk.it/images/apple-touch-startup-image-768x1004.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-1536x2008_png" href="readk.it/images/apple-touch-startup-image-1536x2008.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-2048x1496_png" href="readk.it/images/apple-touch-startup-image-2048x1496.png" media-type="image/png"/>
+            <!-- './readk.it/js'  -->
+                <item id="readk_it_js_client_config_js" href="readk.it/js/client.config.js" media-type="text/javascript"/>
+                <item id="readk_it_js_readkit_js" href="readk.it/js/readkit.js" media-type="text/javascript"/>
+            <!-- './readk.it/js/lib/zip'  -->
+                <item id="readk_it_js_lib_zip_inflate_js" href="readk.it/js/lib/zip/inflate.js" media-type="text/javascript"/>
+            </manifest>
+	<spine toc="ncx">
+		<itemref idref="front"/>
+		<itemref idref="title"/>
+		<itemref idref="frontispiece"/>
+		<itemref idref="copyright"/>
+		<itemref idref="forward_new"/>
+		<itemref idref="forward"/>
+		<itemref idref="publisher"/>
+		<itemref idref="dedication"/>
+		<itemref idref="intro"/>
+		<itemref idref="chap02"/>
+		<itemref idref="chap08"/>
+		<itemref idref="more"/>
+	</spine>
+</package>
