@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+    <head>
+        <meta content="mch0002-hillary" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+
+    <docTitle>
+        <text>Edmund Hillary</text>
+    </docTitle>
+
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Table of Contents</text>
+            </navLabel>
+            <content src="Text/TableOfContents.html#tableofcontents"/>
+        </navPoint>
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel>
+                    <text>About this ebook</text>
+                </navLabel>
+                <content src="Text/section-0001.html"/>
+            </navPoint>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>About Quick Reads</text>
+                </navLabel>
+                <content src="Text/section-0002.html"/>
+            </navPoint>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>Edmund Hillary</text>
+                </navLabel>
+                <content src="Text/section-0003.html"/>
+            </navPoint>
+    </navMap>
+</ncx>
