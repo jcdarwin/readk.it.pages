@@ -120,6 +120,11 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+
+	plugins:
+	    ghpages:
+	        deployRemote: 'github'
+	        deployBranch: 'gh-pages'
 }
 
 
