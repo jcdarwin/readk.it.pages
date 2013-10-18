@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+<title>Vanity Fair</title>
+<id>http://www.feedbooks.com/book/1469</id>
+<author>
+  <name>William Makepeace Thackeray</name>
+  <uri>http://www.feedbooks.com/author/226</uri>
+</author>
+<published>2007-07-30T14:21:57Z</published>
+<updated>2013-08-03T16:41:31Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1848</dcterms:issued>
+<category term="FBFIC000000" label="Fiction"/>
+<category term="FBFIC019000" label="Literary"/>
+<summary>&#8220;I think I could be a good woman, if I had five thousand a year,&#8221; observes beautiful and clever Becky Sharp, one of the wickedest&#8212;and most appealing&#8212;women in all of literature. Becky is just one of the many fascinating figures that populate Willia...</summary>
+<dcterms:extent>302,097 words</dcterms:extent>
+<dcterms:source>http://gutenberg.org</dcterms:source>
+<link type="text/html" href="http://generation.feedbooks.com/book/1469" rel="alternate" title="View on Feedbooks"/>
+<link type="application/epub+zip" href="http://generation.feedbooks.com/book/1469.epub" rel="http://opds-spec.org/acquisition"/>
+<link type="application/x-mobipocket-ebook" href="http://generation.feedbooks.com/book/1469.mobi" rel="http://opds-spec.org/acquisition"/>
+<link type="application/pdf" href="http://generation.feedbooks.com/book/1469.pdf" rel="http://opds-spec.org/acquisition"/>
+<link type="image/jpeg" href="http://covers.feedbooks.net/book/1469.jpg?size=large&amp;t=1375548091" rel="http://opds-spec.org/image"/>
+<link type="image/jpeg" href="http://covers.feedbooks.net/book/1469.jpg?t=1375548091" rel="http://opds-spec.org/image/thumbnail"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="http://generation.feedbooks.com/author/226/books/top.atom?lang=en" rel="related" title="From the same author"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" href="http://generation.feedbooks.com/book/1469/categories.atom" rel="related" title="Categories for this book"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="http://generation.feedbooks.com/book/1469/similar.atom" rel="related" title="People also downloaded..."/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" href="http://generation.feedbooks.com/book/1469/lists.atom" rel="related" title="Reading lists for this book"/>
+<link type="application/atom+xml" thr:count="4" href="http://generation.feedbooks.com/book/1469/comments.atom" rel="replies" thr:updated="2013-06-19T00:11:09Z" title="Comments for this book (4)"/>
+<link type="text/html" thr:count="4" href="http://generation.feedbooks.com/book/1469/comments" rel="replies" thr:updated="2013-06-19T00:11:09Z" title="Comments for this book (4)"/>
+<content type="html">&lt;p&gt;&#8220;I think I could be a good woman, if I had five thousand a year,&#8221; observes beautiful and clever Becky Sharp, one of the wickedest&#8212;and most appealing&#8212;women in all of literature. Becky is just one of the many fascinating figures that populate William Makepeace Thackeray&#8217;s novel Vanity Fair, a wonderfully satirical panorama of upper-middle-class life and manners in London at the beginning of the nineteenth century. &lt;/p&gt;
+
+&lt;p&gt;Scorned for her lack of money and breeding, Becky must use all her wit, charm and considerable sex appeal to escape her drab destiny as a governess. From London&#8217;s ballrooms to the battlefields of Waterloo, the bewitching Becky works her wiles on a gallery of memorable characters, including her lecherous employer, Sir Pitt, his rich sister, Miss Crawley, and Pitt&#8217;s dashing son, Rawdon, the first of Becky&#8217;s misguided sexual entanglements. &lt;/p&gt;
+
+&lt;p&gt;Filled with hilarious dialogue and superb characterizations, Vanity Fair is a richly entertaining comedy that asks the reader, &#8220;Which of us is happy in this world? Which of us has his desire? or, having it, is satisfied?&#8221; &lt;/p&gt;</content>
+<link type="application/atom+xml;type=entry;profile=opds-catalog" href="http://generation.feedbooks.com/book/1469.atom" rel="self"/>
+  <link type="application/atom+xml" href="http://generation.feedbooks.com/book/1469/contents.atom" rel="contents"/>
+</entry>

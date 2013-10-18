@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="9aa56e0a-329e-11e3-9fea-001cc0a62c0b"/>
+
+    <meta name="dtb:depth" content="1"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Vanity Fair</text>
+ </docTitle>
+
+ <docAuthor>
+   <text>Thackeray, William Makepeace</text>
+ </docAuthor>
+
+    <navMap>
+    
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    <navPoint class="about" id="level1-about" playOrder="2">
+      <navLabel><text>About</text></navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+        
+
+
+
+
+
+
+
+<navPoint class="section" id="sec35783" playOrder="3">
+  <navLabel><text>Before the Curtain</text></navLabel>
+  
+    <content src="main0.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35785" playOrder="4">
+  <navLabel><text>Chapter 1 - Chiswick Mall</text></navLabel> 
+  <content src="main1.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35787" playOrder="5">
+  <navLabel><text>Chapter 2 - In Which Miss Sharp and Miss Sedley Prepare to Open the Campaign</text></navLabel> 
+  <content src="main2.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35789" playOrder="6">
+  <navLabel><text>Chapter 3 - Rebecca Is in Presence of the Enemy</text></navLabel> 
+  <content src="main3.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35791" playOrder="7">
+  <navLabel><text>Chapter 4 - The Green Silk Purse</text></navLabel> 
+  <content src="main4.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35793" playOrder="8">
+  <navLabel><text>Chapter 5 - Dobbin of Ours</text></navLabel> 
+  <content src="main5.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35795" playOrder="9">
+  <navLabel><text>Chapter 6 - Vauxhall</text></navLabel> 
+  <content src="main6.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35797" playOrder="10">
+  <navLabel><text>Chapter 7 - Crawley of Queen&#39;s Crawley</text></navLabel> 
+  <content src="main7.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35799" playOrder="11">
+  <navLabel><text>Chapter 8 - Private and Confidential</text></navLabel> 
+  <content src="main8.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35801" playOrder="12">
+  <navLabel><text>Chapter 9 - Family Portraits</text></navLabel> 
+  <content src="main9.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35803" playOrder="13">
+  <navLabel><text>Chapter 10 - Miss Sharp Begins to Make Friends</text></navLabel> 
+  <content src="main10.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35805" playOrder="14">
+  <navLabel><text>Chapter 11 - Arcadian Simplicity</text></navLabel> 
+  <content src="main11.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35807" playOrder="15">
+  <navLabel><text>Chapter 12 - Quite a Sentimental Chapter</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35809" playOrder="16">
+  <navLabel><text>Chapter 13 - Sentimental and Otherwise</text></navLabel> 
+  <content src="main13.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35811" playOrder="17">
+  <navLabel><text>Chapter 14 - Miss Crawley at Home</text></navLabel> 
+  <content src="main14.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35813" playOrder="18">
+  <navLabel><text>Chapter 15 - In Which Rebecca&#39;s Husband Appears for a Short Time</text></navLabel> 
+  <content src="main15.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35815" playOrder="19">
+  <navLabel><text>Chapter 16 - The Letter on the Pincushion</text></navLabel> 
+  <content src="main16.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35817" playOrder="20">
+  <navLabel><text>Chapter 17 - How Captain Dobbin Bought a Piano</text></navLabel> 
+  <content src="main17.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35819" playOrder="21">
+  <navLabel><text>Chapter 18 - Who Played on the Piano Captain Dobbin Bought</text></navLabel> 
+  <content src="main18.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35821" playOrder="22">
+  <navLabel><text>Chapter 19 - Miss Crawley at Nurse</text></navLabel> 
+  <content src="main19.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35823" playOrder="23">
+  <navLabel><text>Chapter 20 - In Which Captain Dobbin Acts as the Messenger of Hymen</text></navLabel> 
+  <content src="main20.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35825" playOrder="24">
+  <navLabel><text>Chapter 21 - A Quarrel About an Heiress</text></navLabel> 
+  <content src="main21.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35827" playOrder="25">
+  <navLabel><text>Chapter 22 - A Marriage and Part of a Honeymoon</text></navLabel> 
+  <content src="main22.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35829" playOrder="26">
+  <navLabel><text>Chapter 23 - Captain Dobbin Proceeds on His Canvass</text></navLabel> 
+  <content src="main23.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35831" playOrder="27">
+  <navLabel><text>Chapter 24 - In Which Mr. Osborne Takes Down the Family Bible</text></navLabel> 
+  <content src="main24.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35833" playOrder="28">
+  <navLabel><text>Chapter 25 - In Which All the Principal Personages Think Fit to Leave Brighton</text></navLabel> 
+  <content src="main25.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35835" playOrder="29">
+  <navLabel><text>Chapter 26 - Between London and Chatham</text></navLabel> 
+  <content src="main26.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35837" playOrder="30">
+  <navLabel><text>Chapter 27 - In Which Amelia Joins Her Regiment</text></navLabel> 
+  <content src="main27.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35839" playOrder="31">
+  <navLabel><text>Chapter 28 - In Which Amelia Invades the Low Countries</text></navLabel> 
+  <content src="main28.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35841" playOrder="32">
+  <navLabel><text>Chapter 29 - Brussels</text></navLabel> 
+  <content src="main29.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35843" playOrder="33">
+  <navLabel><text>Chapter 30 - &quot;The Girl I Left Behind Me&quot;</text></navLabel> 
+  <content src="main30.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35845" playOrder="34">
+  <navLabel><text>Chapter 31 - In Which Jos Sedley Takes Care of His Sister</text></navLabel> 
+  <content src="main31.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35847" playOrder="35">
+  <navLabel><text>Chapter 32 - In Which Jos Takes Flight, and the War Is Brought to a Close</text></navLabel> 
+  <content src="main32.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35849" playOrder="36">
+  <navLabel><text>Chapter 33 - In Which Miss Crawley&#39;s Relations Are Very Anxious About Her</text></navLabel> 
+  <content src="main33.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35851" playOrder="37">
+  <navLabel><text>Chapter 34 - James Crawley&#39;s Pipe Is Put Out</text></navLabel> 
+  <content src="main34.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35853" playOrder="38">
+  <navLabel><text>Chapter 35 - Widow and Mother</text></navLabel> 
+  <content src="main35.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35855" playOrder="39">
+  <navLabel><text>Chapter 36 - How to Live Well on Nothing a Year</text></navLabel> 
+  <content src="main36.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35857" playOrder="40">
+  <navLabel><text>Chapter 37 - The Subject Continued</text></navLabel> 
+  <content src="main37.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35859" playOrder="41">
+  <navLabel><text>Chapter 38 - A Family in a Very Small Way</text></navLabel> 
+  <content src="main38.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35861" playOrder="42">
+  <navLabel><text>Chapter 39 - A Cynical Chapter</text></navLabel> 
+  <content src="main39.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35863" playOrder="43">
+  <navLabel><text>Chapter 40 - In Which Becky Is Recognized by the Family</text></navLabel> 
+  <content src="main40.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35865" playOrder="44">
+  <navLabel><text>Chapter 41 - In Which Becky Revisits the Halls of Her Ancestors</text></navLabel> 
+  <content src="main41.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35867" playOrder="45">
+  <navLabel><text>Chapter 42 - Which Treats of the Osborne Family</text></navLabel> 
+  <content src="main42.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35869" playOrder="46">
+  <navLabel><text>Chapter 43 - In Which the Reader Has to Double the Cape</text></navLabel> 
+  <content src="main43.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35871" playOrder="47">
+  <navLabel><text>Chapter 44 - A Round-about Chapter between London and Hampshire</text></navLabel> 
+  <content src="main44.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35873" playOrder="48">
+  <navLabel><text>Chapter 45 - Between Hampshire and London</text></navLabel> 
+  <content src="main45.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35875" playOrder="49">
+  <navLabel><text>Chapter 46 - Struggles and Trials</text></navLabel> 
+  <content src="main46.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35877" playOrder="50">
+  <navLabel><text>Chapter 47 - Gaunt House</text></navLabel> 
+  <content src="main47.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35879" playOrder="51">
+  <navLabel><text>Chapter 48 - In Which the Reader Is Introduced to the Very Best of Company</text></navLabel> 
+  <content src="main48.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35881" playOrder="52">
+  <navLabel><text>Chapter 49 - In Which We Enjoy Three Courses and a Dessert</text></navLabel> 
+  <content src="main49.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35883" playOrder="53">
+  <navLabel><text>Chapter 50 - Contains a Vulgar Incident</text></navLabel> 
+  <content src="main50.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35885" playOrder="54">
+  <navLabel><text>Chapter 51 - In Which a Charade Is Acted Which May or May Not Puzzle the Reader</text></navLabel> 
+  <content src="main51.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35887" playOrder="55">
+  <navLabel><text>Chapter 52 - In Which Lord Steyne Shows Himself in a Most Amiable Light</text></navLabel> 
+  <content src="main52.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35889" playOrder="56">
+  <navLabel><text>Chapter 53 - A Rescue and a Catastrophe</text></navLabel> 
+  <content src="main53.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35891" playOrder="57">
+  <navLabel><text>Chapter 54 - Sunday After the Battle</text></navLabel> 
+  <content src="main54.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35893" playOrder="58">
+  <navLabel><text>Chapter 55 - In Which the Same Subject is Pursued</text></navLabel> 
+  <content src="main55.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35895" playOrder="59">
+  <navLabel><text>Chapter 56 - Georgy is Made a Gentleman</text></navLabel> 
+  <content src="main56.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35897" playOrder="60">
+  <navLabel><text>Chapter 57 - Eothen</text></navLabel> 
+  <content src="main57.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35899" playOrder="61">
+  <navLabel><text>Chapter 58 - Our Friend the Major</text></navLabel> 
+  <content src="main58.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35901" playOrder="62">
+  <navLabel><text>Chapter 59 - The Old Piano</text></navLabel> 
+  <content src="main59.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35903" playOrder="63">
+  <navLabel><text>Chapter 60 - Returns to the Genteel World</text></navLabel> 
+  <content src="main60.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35905" playOrder="64">
+  <navLabel><text>Chapter 61 - In Which Two Lights are Put Out</text></navLabel> 
+  <content src="main61.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35907" playOrder="65">
+  <navLabel><text>Chapter 62 - Am Rhein</text></navLabel> 
+  <content src="main62.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35909" playOrder="66">
+  <navLabel><text>Chapter 63 - In Which We Meet an Old Acquaintance</text></navLabel> 
+  <content src="main63.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35911" playOrder="67">
+  <navLabel><text>Chapter 64 - A Vagabond Chapter</text></navLabel> 
+  <content src="main64.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35913" playOrder="68">
+  <navLabel><text>Chapter 65 - Full of Business and Pleasure</text></navLabel> 
+  <content src="main65.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35915" playOrder="69">
+  <navLabel><text>Chapter 66 - Amantium Irae</text></navLabel> 
+  <content src="main66.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap35917" playOrder="70">
+  <navLabel><text>Chapter 67 - Which Contains Births, Marriages, and Deaths</text></navLabel> 
+  <content src="main67.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+ 
+    
+    <navPoint class="similar" id="level1-similar" playOrder="71">
+      <navLabel><text>Recommendations</text></navLabel>
+      <content src="similar.xml"/>
+    </navPoint>
+  
+    
+  </navMap>
+
+
+</ncx>

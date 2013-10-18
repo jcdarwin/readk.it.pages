@@ -1,0 +1,165 @@
+/*DESIGN PROFILE - Default */
+/* Copyright 2012 Infogrid Pacific Pte. Ltd. All rights reserved. */
+/* Profile Name: CSS Minification */
+/* Created By: Infogrid Pacific */
+/* Creation Date: 2012-08-31 */
+/* Modified By: Infogrid Pacific */
+div.table { font-size: 0.9em; line-height: 1.2em; text-align: left; margin-top: 1em; margin-bottom: 1em; }
+div.table h4 { font-size: 1em; margin: 0 0 0.5em 0; }
+div.table p { text-indent: 0; padding: 0 0 0.5em 0; }
+.layout table { border-collapse: collapse; margin-top: 0.5em; margin-bottom: 0.5em; }
+.layout table td { font-size: 1.1em; line-height: 1.2em; vertical-align: top; font-weight: normal; padding: 0 0.5em 0 0; }
+.layout table th { font-size: 1.1em; line-height: 1.2em; vertical-align: top; font-weight: normal; padding: 0 0.5em 0 0; }
+.layout table th+th { padding: 0 0 0 0.5em; }
+.layout table td+td { padding: 0 0 0 0.5em; }
+.width-10 .pc img, .width-10 .pc table { width: 10%; }
+.width-20 .pc img, .width-20 .pc table { width: 20%; }
+.width-30 .pc img, .width-30 .pc table { width: 30%; }
+.width-40 .pc img, .width-40 .pc table { width: 40%; }
+.width-60 .pc img, .width-60 .pc table { width: 60%; }
+.width-70 .pc img, .width-70 .pc table { width: 70%; }
+.width-80 .pc img, .width-80 .pc table { width: 80%; }
+.width-90 .pc img, .width-90 .pc table { width: 90%; }
+.width-auto .pc img, .width-auto .pc table { width: 100%; }
+div.align-center { display: block; text-align:center; margin-left: auto; margin-right: auto; }
+.align-center table { margin: 0 0 0 0; text-align: center; }
+.align-center .pc { margin: 0 0 0 0; text-align: center; }
+.align-center .pc img { margin: 0 auto 0 auto; }
+.align-center .pc object { margin: 0 auto 0 auto; }
+.pc { margin: 0; padding: 0; }
+.pc img { width: 100%; margin: 0; padding: 0; }
+.pc table { width: 100%; margin: 0; padding: 0; }
+.pc p { text-align: left; }
+div.list-notes h4 { font-family: serif; }
+.font1 { color: rgb(123, 121, 121); }
+#rw-table_74681-234559337 .row26 { border-bottom: 1px solid black; }
+.PlatePage .caption { font-weight: normal !important; }
+#rw-title-block_76456-383019015 a { color: black !important; }
+#rw-block-list-simple_74691-188361972 { border-bottom: 1px solid black; padding-bottom: 0.30em; }
+#rw-block-boxed_74691-446825682 { padding-top: 0.30em; border-top: 1px solid black; }
+#rw-block-boxed_74640-810338399 { padding-top: 0.30em; border-top: 1px solid black; }
+#rw-block-boxed_74640-552108038 { padding-top: 0.30em; border-top: 1px solid black; }
+#rw-table-layout_74640-310025625 { padding-top: 0.30em; border-top: 1px solid white; }
+#rw-table-layout_74640-689703414 { padding-top: 0.30em; border-top: 1px solid white; }
+#rw-block-boxed_74623-277902664 { border-bottom: 1px solid black; padding-top: 0.30em; border-top: 1px solid black; }
+#rw-title-block_76456-383019015 h1 { font-family: sans-serif !important; font-size: 1.00em !important; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; margin-bottom: 1.40em !important; color: black !important; border-bottom: 4px solid rgb(123, 121, 121); }
+#rw-title-block_76458-775756524 a { color: black !important; }
+#rw-title-block_76458-775756524 h1 { font-family: sans-serif !important; font-size: 1.00em !important; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; margin-bottom: 1.40em !important; color: black !important; border-bottom: 4px solid rgb(123, 121, 121); }
+#rw-title-block_76397-890439172 a { color: black !important; }
+#rw-title-block_76397-890439172 h1 { font-family: sans-serif !important; font-size: 1.00em !important; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; margin-bottom: 1.40em !important; color: black !important; border-bottom: 4px solid rgb(123, 121, 121); }
+.list-toc .fp { margin-left: 1.20em; text-indent: -1.20em; margin-bottom: 0.40em; }
+.list-toc .firstpara { margin-left: 1.20em; text-indent: -1.20em; margin-bottom: 0.40em; }
+.boxed ul { margin-top: 0em !important; margin-top: 0em !important; padding-bottom: 0em !important; padding-bottom: 0em !important; }
+.Appendix .layout td { font-family: serif !important; font-size: 1em !important; line-height: 1.20em !important; }
+.Appendix .layout { border-bottom: 1px solid white; border-top: 1px solid white; }
+div.list-notes h4 { font-family: serif !important; font-size: 1.10em !important; line-height: 1.20em !important; }
+.Appendix h4 { font-family: serif !important; font-size: 1em !important; line-height: 1.20em !important; }
+.layout .hang { margin-left: 1.20em; text-indent: -1.20em; margin-top: 0em; padding-bottom: 0em; }
+.layout { border-bottom: 1px solid black; padding-top: 0.30em; border-top: 1px solid black; }
+#rw-block-boxed_74464-982268730 { border-bottom: 1px solid black; padding-top: 0.30em; border-top: 1px solid black; }
+.layout tr td { font-family: sans-serif; font-size: 0.90em; line-height: 1.20em; }
+.sans-serif { font-size: 0.90em; line-height: 1.20em; }
+.galley { color: rgb(0, 0, 0); font-family: serif; font-size: 1em; font-weight: normal; letter-spacing: 0; line-height: 1.2em; margin: 0 0 0 0; orphans: 1; padding: 0 0 0 0; text-align: justify; widows: 1; word-spacing: 0; }
+p { margin: 0 0 0 0; }
+p+p { text-indent: 1.09em; }
+.hanging p { margin-left: 1.09em; text-indent: -1.09em; }
+.hanging p+p { margin-left: 1.09em; text-indent: -1.09em; }
+div.indent { margin: 0 0 0 1.09em; }
+p.indent { text-indent: 1.09em; }
+.leading-line { height: 1.27em; margin: 0 0 0 0; padding: 0 0 0 0; }
+p.firstpara { text-indent: 0; }
+p.hang { margin-left: 1.09em; text-indent: -1.09em; }
+p.hanging { margin-left: 1.09em; text-indent: -1.09em; }
+p.attribution { font-style: normal; text-align: right; }
+p.caption { font-family: sans-serif; font-size: 0.90em; font-style: normal; font-weight: bold; line-height: 1.2em; margin: 0.27em 0 0.27em 0; padding: 0.30em 0em 0em 0em; text-indent: 0; text-align: center; }
+.copyright { display: block; font-size: 0.73em; font-weight: normal; line-height: 1.2em; padding: 0em 0em 0 0; text-align: left; }
+.copyright p { margin: 0 0 0.45em 0; text-indent: 0; }
+span.serif { font-family: serif; }
+span.sans-serif { font-family: sans-serif; }
+span.ref-note { font-size: 60%; line-height: 0.90em; vertical-align: super; color: red; }
+span.ref-footnote { font-size: 60%; line-height: 1.2em; vertical-align: super; color: red; }
+.galley h2 { font-family: sans-serif; font-size: 1.00em; font-style: normal; font-weight: bold; line-height: 1.2em; margin: 1.20em 0 0.60em 0; padding: 0 0 0 0; page-break-after: avoid; text-align: center; text-transform: none; }
+.galley h3 { font-family: inherit; font-size: 1.00em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 1.20em 0 0em 0; padding: 0 0 0 0; page-break-after: avoid; text-align: left; }
+.galley h4 { font-family: sans-serif; font-size: 0.9em; font-style: normal; font-weight: bold; line-height: 1.2em; margin: 1.20em 0 0.64em 0; padding: 0 0 0 0; page-break-after: avoid; text-align: left; }
+.galley h5 { font-family: inherit; font-size: 1.00em; font-style: normal; font-weight: bold; line-height: 1.2em; margin: 1.27em 1.09em 0.64em 0; padding: 0 0 0 0; page-break-after: avoid; text-align: left; }
+.galley h2+h3 { margin-top: 0; }
+.galley h2+div { margin-top: 0; }
+.galley h3+h4 { margin-top: 0; }
+.galley h3+div { margin-top: 0; }
+.galley h4+h5 { margin-top: 0; }
+.galley h4+div { margin-top: 0; }
+.galley h5+div { margin-top: 0; }
+.title-block { margin: 0 0 0 0; min-height: 2.00em; padding: 1.20em 0 1.80em 0; }
+.title-block h1 { font-family: inherit; font-size: 1.20em; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0em 0 0em 0; text-align: center; text-indent: 0; text-transform: none; }
+.title-block .title-sub { font-family: inherit; font-size: 1.27em; line-height: 1.2em; margin: 0 0 0 0; padding: 0 0 1.55em 0; text-align: center; text-indent: 0; text-transform: none; }
+.title-block .title-num { font-family: inherit; font-size: 1.50em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0em 0 0 0; text-align: center; text-indent: 0; text-transform: none; }
+.title-block .title-author { font-family: inherit; font-size: 1.09em; font-style: italic; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0 0 0.64em 0; text-align: center; text-indent: 0; text-transform: none; }
+.Chapter .title-block .title-num a { color: black; }
+.Chapter .title-block .title-num { font-family: sans-serif; font-size: 1.00em; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; margin-bottom: 1.40em !important; padding-bottom: 0.30em; border-bottom: 4px solid rgb(123, 121, 121); }
+.Chapter .title-block h1 { font-family: sans-serif; font-size: 1.40em; font-style: normal; font-weight: bold; line-height: 1.20em; margin-bottom: 0em !important; color: rgb(123, 121, 121); }
+.Chapter .title-block a { color: rgb(123, 121, 121); }
+.backmatter .title-block .title-num a { color: black; }
+.backmatter .title-block .title-num { font-family: sans-serif; font-size: 1.00em; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; margin-bottom: 1.40em !important; padding-bottom: 0.30em; border-bottom: 4px solid rgb(123, 121, 121); }
+.backmatter .title-block h1 { font-family: sans-serif; font-size: 1.40em; font-style: normal; font-weight: bold; line-height: 1.20em; margin-bottom: 0em !important; color: rgb(123, 121, 121); }
+.backmatter .title-block a { color: rgb(123, 121, 121); }
+.frontmatter .title-block h1 { font-family: sans-serif; font-size: 1.20em; font-style: normal; font-weight: normal; line-height: 1.20em; padding-bottom: 0.30em; border-bottom: 4px solid rgb(123, 121, 121); }
+.title-block-book { margin: 0 0 0 0; min-height: 2.00em; padding: 1.00em 0 2.00em 0; }
+.title-block-book h1 { font-family: sans-serif; font-size: 2.00em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 1em 0 0.60em 0; text-align: center; text-indent: 0; color: rgb(123, 121, 121); }
+.title-block-book .title-sub { font-family: sans-serif; font-size: 1.10em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0 0 2.00em 0; text-align: center; text-indent: 0; }
+.title-block-book .title-author { font-family: inherit; font-size: 1.60em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0 0 1.00em 0; text-align: center; text-indent: 0; }
+.title-block-book p { font-family: inherit; font-size: 0.91em; font-style: normal; font-weight: normal; line-height: 1.2em; margin: 0 0 0 0; padding: 0 0 0.5em 0; text-align: center; text-indent: 0; }
+.imprint { float: bottom; font-size: 0.82em; line-height: 1.2em; margin-top: 0em; padding: 1.27em 0 0 0; text-align: center; }
+.imprint p { margin: 0 0 0 0; padding: 0 0 0.55em 0; text-indent: 0; }
+.galley li { margin: 0 0 0 0; padding-bottom: 0; padding-top: 0; }
+.galley ul { margin: 1.20em 0 1.20em 1.64em; padding: 0 0 0 0; }
+.galley li { margin: 0 0 0 0; padding-bottom: 0; padding-top: 0; }
+.galley ul ul li { margin-left: 1.64em; }
+.galley ul ul ul li { margin-left: 1.64em; }
+.list-references { font-size: 0.91em; line-height: 1.2em; margin: 0 0 0 0; }
+.list-references p { margin-left: 1.64em; text-indent: -1.64em; }
+.list-references p+p { margin-left: 1.64em; text-indent: -1.64em; }
+.list-notes { font-size: 0.91em; line-height: 1.2em; margin: 1.27em 0 1.27em 0; padding: 0 0 0 0; text-indent: 0; }
+.list-notes p { margin-left: 1.64em; text-indent: -1.64em; }
+.list-notes p+p { margin-left: 1.64em; text-indent: -1.64em; }
+.list-index { font-size: 0.82em; line-height: 1.2em; margin: 0 0 0.55em 0; padding: 0 0 0 0; text-align: left; }
+.list-index p { margin-left: 1.09em; text-align: left; text-indent: -1.09em; }
+.list-index p+p { margin-left: 1.09em; text-align: left; text-indent: -1.09em; }
+.list-index ul { margin: 0 0 0 0; }
+.list-index ul li { list-style: none; margin-left: 1.20em; text-indent: -1.20em; }
+.list-index ul ul li { list-style: none; margin-left: 1.09em; }
+.list-index ul ul ul li { list-style: none; margin-left: 1.09em; }
+.list-toc ul { margin: 0 0 0 1em; list-style-type: none; }
+.list-toc ol { margin: 0 0 0 1em; list-style-type: none; }
+.list-toc ul li { list-style-type: none; text-indent: 0em; text-align: left; margin-bottom: 0.25em; }
+.list-toc ol li { list-style-type: none; text-indent: 0em; text-align: left; margin-bottom: 0.25em; }
+.footnotes { border-top: 1px solid black; margin-top: 1em !important; padding-top: 0.40em !important; }
+div.footnotes p { font-size: 0.73em; line-height: 1.2em; margin-bottom: 0; margin-left: 1.09em; text-indent: -1.09em; }
+.block { margin: 1.27em 0 1.27em 0; }
+.block h4 { font-family: serif; font-size: 0.91em; font-style: normal; font-weight: bold; line-height: 1.2em; margin: 0 0 0.60em 0; padding: 0 0 0 0; text-align: left; text-indent: 0; }
+.block h5 { font-family: sans-serif; font-size: 0.91em; font-style: normal; font-weight: bold; line-height: 1.20em; margin: 0.60em 0 0em 0; padding: 0 0 0 0; text-align: left; text-indent: 0; }
+.block h6 { font-size: 0.91em; font-style: italic; line-height: 1.2em; margin: 0.64em 0 0 0; padding: 0 0 0 0; text-align: left; text-indent: 0; }
+.boxed { font-family: sans-serif; font-size: 0.90em; margin: 1.20em 0 1.20em 0 !important; padding: 0.60em 0em 0.60em 0em !important; }
+.boxed h4 { font-family: sans-serif; font-size: 0.90em; }
+.epigraph { display: block; font-size: 0.91em; line-height: 1.2em; margin: 0em 1.20em 1.20em 1.20em; }
+.extract { margin: 1.27em 0 1.27em 0; padding: 0 1.09em 0 1.09em; }
+.media { margin: 1.27em 0 1.27em 0; page-break-inside: avoid; }
+.media h4 { font-size: 0.91em; font-weight: bold; padding: 1.27em 0 0.64em 0; text-align: left; }
+.media h5 { font-size: 0.91em; font-weight: bold; padding: 1.27em 0 0.64em 0; }
+.media h6 { font-size: 0.91em; font-style: italic; padding: 1.27em 0 0.64em 0; }
+.figure { font-size: 0.82em; margin: 1.27em 0 1.27em 0; padding: 0 0 0 0; page-break-inside: avoid; text-align: left; text-indent: 0; }
+.figure p { text-indent: 0; }
+.image { font-size: 0.82em; margin: 1.27em 0 1.27em 0; padding: 0 0 0 0; page-break-inside: avoid; text-align: left; text-indent: 0; }
+.image p { text-indent: 0; }
+.sc, .smallcap { font-size: 75%; }
+div.title-block a { text-decoration: none; color: #000000 !important; }
+div.drama-title-block a { text-decoration: none; color: #000000 !important; }
+div.poem-title-block a { text-decoration: none; color: #000000 !important; }
+div.TableOfContents a { text-decoration: none; color: #000000 !important; }
+.copyright-top {
+    margin-top:4em;
+    margin-bottom:0em;
+    text-align:center;
+}
+.copyright1{
+    margin-top: 1em;
+}

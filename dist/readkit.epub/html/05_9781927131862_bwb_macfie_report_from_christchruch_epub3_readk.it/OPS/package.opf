@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Report from Christchurch (preview)</dc:title>
+    <dc:creator id="creator">Rebecca Macfie</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="pub-id">9781927131862</dc:identifier>
+    <meta property="dcterms:modified">2013-10-10T22:29:10Z</meta>
+    <dc:date>2013</dc:date>
+    <dc:publisher>Bridget Williams Books</dc:publisher>
+    <dc:contributor id="contrib1">Pamela Stirling</dc:contributor>
+    <dc:rights>Copyright The New Zealand Listener. All rights reserved</dc:rights>
+    <dc:description>‘The grief sits like hot magma, held down by a crust of action...’
+Rebecca Macfie’s first-hand accounts of the Christchurch earthquakes in the NZ Listener provided an often searing account of the disaster. They were powerful and immediate because Macfie herself lived there, personally affected by the devastation.
+As Macfie explains in ‘Hope and despair’, the first chapter of this BWB Text, her own house was badly damaged and she and her family were forced to move out. But other families faced injury and even death. Written over a period of two years, Macfie’s Report from Christchurch traces the city’s struggle to recover from the disaster and plan for the future.
+BWB Texts offer a new form of reading for New Zealanders. Commissioned as short digital-only works, BWB Texts unlock diverse stories, insights and analysis from the best of our past, present and future New Zealand writing.
+Published in association with the New Zealand Listener.</dc:description>
+    <dc:subject>Rebecca Macfie, Pamela Stirling, New Zealand Listener, Christchurch Earthquake</dc:subject>
+    <dc:type>Journalism</dc:type>
+</metadata>
+<manifest>
+    <item id="toc" properties="nav" href="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="images/9781927131862_cover_epub.jpg" media-type="image/jpeg"/>
+    <item id="s001" href="s001-BookTitlePage-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s002" href="s002-TableOfContents-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s003" href="s003-Preface-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s004" href="s004-Preface-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s005" href="s005-Preface-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s006" href="s006-Chapter-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s007" href="s007-Chapter-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s008" href="s008-Chapter-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s009" href="s009-Chapter-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s010" href="s010-Other-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s011" href="s011-Other-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s012" href="s012-Copyright-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="images-001" href="images/bwblistenerlogo_2_online.jpg" media-type="image/jpeg"/>
+    <item id="css-001" href="css/9781927131862.css" media-type="text/css"/>
+    <item id="fonts-001" href="fonts/LiberationSans-Bold.woff" media-type="application/font-woff"/>
+    <item id="fonts-002" href="fonts/LiberationSans-BoldItalic.woff" media-type="application/font-woff"/>
+    <item id="fonts-003" href="fonts/LiberationSans-Italic.woff" media-type="application/font-woff"/>
+    <item id="fonts-004" href="fonts/LiberationSans-Regular.woff" media-type="application/font-woff"/>
+    <item id="fonts-005" href="fonts/LiberationSerif-Bold.woff" media-type="application/font-woff"/>
+    <item id="fonts-006" href="fonts/LiberationSerif-BoldItalic.woff" media-type="application/font-woff"/>
+    <item id="fonts-007" href="fonts/LiberationSerif-Italic.woff" media-type="application/font-woff"/>
+    <item id="fonts-008" href="fonts/LiberationSerif-Regular.woff" media-type="application/font-woff"/>
+    <item id="fonts-009" href="fonts/URWBookmanL-DemiBold.woff" media-type="application/font-woff"/>
+    <item id="fonts-010" href="fonts/URWBookmanL-DemiBoldItal.woff" media-type="application/font-woff"/>
+    <item id="fonts-011" href="fonts/URWBookmanL-Ligh.woff" media-type="application/font-woff"/>
+    <item id="fonts-012" href="fonts/URWBookmanL-LighItal.woff" media-type="application/font-woff"/>
+
+            <!-- './readk.it'  -->
+                <item id="readk_it_favicon_ico" href="readk.it/favicon.ico" media-type="image/vnd.microsoft.icon"/>
+                <item id="readk_it_index_html" href="readk.it/index.html" media-type="text/plain"/>
+                <item id="readk_it_offline_manifest" href="readk.it/offline.manifest" media-type="text/plain"/>
+            <!-- './readk.it/css'  -->
+                <item id="readk_it_css_fontello_css" href="readk.it/css/fontello.css" media-type="text/plain"/>
+                <item id="readk_it_css_screen_css" href="readk.it/css/readkit-screen.css" media-type="text/plain"/>
+                <item id="readk_it_css_drag_and_drop_css" href="readk.it/css/drag_and_drop.css" media-type="text/plain"/>
+                <item id="readk_it_css_add-to-homescreen_style_add2home_css" href="readk.it/css/add2home.css" media-type="text/plain"/>
+            <!-- './readk.it/fonts'  -->
+            <!-- './readk.it/fonts/fontello'  -->
+            <!-- './readk.it/fonts/fontello/font'  -->
+                <item id="readk_it_fonts_fontello_font_fontello_ttf" href="readk.it/fonts/fontello/font/fontello.ttf" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_fontello_font_fontello_woff" href="readk.it/fonts/fontello/font/fontello.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/Lora'  -->
+                <item id="readk_it_fonts_Lora_Lora-Bold_woff" href="readk.it/fonts/Lora/Lora-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-BoldItalic_woff" href="readk.it/fonts/Lora/Lora-BoldItalic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-Italic_woff" href="readk.it/fonts/Lora/Lora-Italic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora_woff" href="readk.it/fonts/Lora/Lora.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/SourceSansPro'  -->
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Bold_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-BoldIt_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-BoldIt.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-It_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-It.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Regular_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Regular.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/images'  -->
+                <item id="readk_it_images_apple-touch-icon-114x114_png" href="readk.it/images/apple-touch-icon-114x114.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-144x144_png" href="readk.it/images/apple-touch-icon-144x144.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-57x57_png" href="readk.it/images/apple-touch-icon-57x57.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-72x72_png" href="readk.it/images/apple-touch-icon-72x72.png" media-type="image/png"/>
+                <item id="readk_it_images_site_preloader_gif" href="readk.it/images/site_preloader.gif" media-type="image/gif"/>
+                <item id="readk_it_images_spinner_gif" href="readk.it/images/spinner.gif" media-type="image/gif"/>
+                <item id="readk_it_images_apple-touch-startup-image-320x460_png" href="readk.it/images/apple-touch-startup-image-320x460.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x920_png" href="readk.it/images/apple-touch-startup-image-640x920.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x1096_png" href="readk.it/images/apple-touch-startup-image-640x1096.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-748x1024_png" href="readk.it/images/apple-touch-startup-image-748x1024.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-768x1004_png" href="readk.it/images/apple-touch-startup-image-768x1004.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-1536x2008_png" href="readk.it/images/apple-touch-startup-image-1536x2008.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-2048x1496_png" href="readk.it/images/apple-touch-startup-image-2048x1496.png" media-type="image/png"/>
+            <!-- './readk.it/js'  -->
+                <item id="readk_it_js_client_config_js" href="readk.it/js/client.config.js" media-type="text/javascript"/>
+                <item id="readk_it_js_readkit_js" href="readk.it/js/readkit.js" media-type="text/javascript"/>
+            <!-- './readk.it/js/lib/zip'  -->
+                <item id="readk_it_js_lib_zip_inflate_js" href="readk.it/js/lib/zip/inflate.js" media-type="text/javascript"/>
+            </manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="s001" linear="yes"/>
+    <itemref idref="s002" linear="yes"/>
+    <itemref idref="s003" linear="yes"/>
+    <itemref idref="s004" linear="yes"/>
+    <itemref idref="s005" linear="yes"/>
+    <itemref idref="s006" linear="yes"/>
+    <itemref idref="s007" linear="yes"/>
+    <itemref idref="s008" linear="yes"/>
+    <itemref idref="s009" linear="yes"/>
+    <itemref idref="s010" linear="yes"/>
+    <itemref idref="s011" linear="yes"/>
+    <itemref idref="s012" linear="yes"/>
+</spine>
+</package>
