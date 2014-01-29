@@ -123,7 +123,7 @@ docpadConfig = {
 
 	plugins:
 	    ghpages:
-	        deployRemote: 'github'
+	        deployRemote: 'origin'
 	        deployBranch: 'gh-pages'
 }
 
