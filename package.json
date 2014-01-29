@@ -28,21 +28,20 @@
     "npm": "1.2"
   },
   "dependencies": {
-    "docpad": "6.x",
-    "docpad-plugin-cleanurls": "2.x",
-    "docpad-plugin-coffeescript": "2.x",
-    "docpad-plugin-eco": "2.x",
-    "docpad-plugin-less": "2.x",
-    "docpad-plugin-marked": "2.x",
-    "docpad-plugin-partials": "2.x",
-    "docpad-plugin-related": "2.x",
-    "docpad-plugin-text": "2.x",
-    "docpad-plugin-geturl": "2.x",
-    "docpad-plugin-services": "~2.3.0",
-    "docpad-plugin-ghpages": "~2.4.0"
+    "docpad": "~6.54.10",
+    "docpad-plugin-cleanurls": "~2.6.2",
+    "docpad-plugin-coffeescript": "~2.2.3",
+    "docpad-plugin-eco": "~2.0.3",
+    "docpad-plugin-less": "~2.4.0",
+    "docpad-plugin-marked": "~2.2.0",
+    "docpad-plugin-partials": "~2.8.1",
+    "docpad-plugin-text": "~2.3.2",
+    "docpad-plugin-geturl": "~2.1.1",
+    "docpad-plugin-services": "~2.5.0",
+    "docpad-plugin-ghpages": "~2.4.3"
   },
   "devDependencies": {
-    "docpad-plugin-livereload": "2.x"
+    "docpad-plugin-livereload": "~2.5.6"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
