@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="In the Early World" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>In the Early World</text>
+  </docTitle>
+  <navMap>
+    <navPoint playOrder="1" id="1">
+      <navLabel>
+        <text>Front Cover</text>
+      </navLabel>
+      <content src="front.html"/>
+    </navPoint>
+    <navPoint playOrder="2" id="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="title_page.html"/>
+    </navPoint>
+    <navPoint playOrder="3" id="3">
+      <navLabel>
+        <text>Frontispiece</text>
+      </navLabel>
+      <content src="frontispiece.html"/>
+    </navPoint>
+    <navPoint playOrder="4" id="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html"/>
+    </navPoint>
+    <navPoint playOrder="5" id="5">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="forward_new.html"/>
+    </navPoint>
+    <navPoint playOrder="6" id="6">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="forward.html"/>
+    </navPoint>
+    <navPoint playOrder="7" id="7">
+      <navLabel>
+        <text>Publisher's Note</text>
+      </navLabel>
+      <content src="publisher.html"/>
+    </navPoint>
+    <navPoint playOrder="8" id="8">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="dedication.html"/>
+    </navPoint>
+    <navPoint playOrder="9" id="9">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="intro.html"/>
+    </navPoint>
+    <navPoint playOrder="10" id="10">
+      <navLabel>
+        <text>Chapter 2 The Beginning</text>
+      </navLabel>
+      <content src="chap02.html"/>
+    </navPoint>
+    <navPoint playOrder="11" id="11">
+      <navLabel>
+        <text>Chapter 8 Language Techniques</text>
+      </navLabel>
+      <content src="chap08.html"/>
+    </navPoint>
+    <navPoint playOrder="12" id="12">
+      <navLabel>
+        <text>More</text>
+      </navLabel>
+      <content src="more.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

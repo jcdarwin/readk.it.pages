@@ -1,0 +1,121 @@
+/*DESIGN PROFILE - Default */
+/* Copyright 2013 Infogrid Pacific Pte. Ltd. All rights reserved. */
+/* Profile Name: CSS Minification */
+/* Created By: Infogrid Pacific */
+/* Creation Date: 2013-10-10 */
+/* Modified By: Infogrid Pacific */
+@font-face { font-family: "Galley"; font-weight: 700; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSerif-BoldItalic.woff"); }
+@font-face { font-family: "Galley"; font-weight: 400; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSerif-Italic.woff"); }
+@font-face { font-family: "Galley"; font-weight: 700; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSerif-Bold.woff"); }
+@font-face { font-family: "Galley"; font-weight: 400; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSerif-Regular.woff"); }
+@font-face { font-family: "TitleBlock"; font-weight: 400; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Italic.woff"); }
+@font-face { font-family: "TitleBlock"; font-weight: 700; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-BoldItalic.woff"); }
+@font-face { font-family: "TitleBlock"; font-weight: 700; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Bold.woff"); }
+@font-face { font-family: "TitleBlock"; font-weight: 400; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Regular.woff"); }
+@font-face { font-family: "Heading"; font-weight: 400; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Italic.woff"); }
+@font-face { font-family: "Heading"; font-weight: 700; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-BoldItalic.woff"); }
+@font-face { font-family: "Heading"; font-weight: 700; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Bold.woff"); }
+@font-face { font-family: "Heading"; font-weight: 400; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/LiberationSans-Regular.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 700; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-DemiBold.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 400; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-LighItal.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 700; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-DemiBoldItal.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 400; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-Ligh.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 700; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-DemiBold.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 400; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-LighItal.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 700; font-style: italic; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-DemiBoldItal.woff"); }
+@font-face { font-family: "URWBookmanL"; font-weight: 400; font-style: normal; font-stretch: normal; font-variant: normal; src: url("../fonts/URWBookmanL-Ligh.woff"); }
+ol { font-family: NumberList, Galley; }
+.list-toc-rw { font-family: TableOfContents, NamedLists, Galley; }
+.frontmatter-rw .title-block-rw .title-num-rw { font-family: FrontmatterTitleNumber, FrontmatterTitleBlock, TitleBlock, Galley; }
+body, section, div, table, thead, tbody, tfoot, th, td, p, pre, ul, ol, dl, dt, dd, li, span, nav, header, footer { margin: 0; padding: 0; }
+body { margin: 0; padding: 0; }
+div { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box; box-sizing: border-box; }
+.copyright-rw {font-size: 0.9em; padding-right: 1em; padding-top: 1em; font-family: Copyright, TextBlock, Galley; line-height: 1.2em; padding-left: 1em; }
+.copyright-rw p { text-align: left; text-indent: 0; margin-bottom: 0; padding-bottom: 0.5em; }
+.galley-rw {word-spacing: 0; font-size: 1.0em; font-weight: normal; text-align: justify; font-family: Galley, serif; letter-spacing: 0; line-height: 1.2em; }
+p { text-indent: 0; padding-bottom: 0; }
+p+p { text-indent: 1.3em; }
+.firstpara-rw { text-indent: 0; }
+.half-line-below-rw { margin-bottom: 0.5em; }
+.indent-para-rw { text-indent: 0; margin-left: 1.3em; margin-right: 1.3em; }
+div+p { text-indent: 0; }
+h5+p { text-indent: 0; }
+.block-rw p:first-child { text-indent: 0; }
+ol+p { text-indent: 0; }
+span.smallcaps-rw { font-variant: small-caps; }
+a:link { color: rgb(0, 100, 150); text-decoration: none; }
+a:visited { color: rgb(0, 100, 150); }
+a:hover { color: rgb(0, 100, 150); text-decoration: underline; }
+a:active { color: rgb(0, 100, 150); }
+.-epub-media-overlay-active, .-readium-epub-media-overlay-active { color: red; background-color: inherit; }
+.galley-rw h5 {font-size: 1em; line-height: 1em; color: rgb(0, 0, 0); margin-top: 1.5em; margin-bottom: 0.5em; page-break-after: avoid; font-weight: bold; text-transform: none; font-style: normal; text-align: left; }
+.galley-rw h5+div { margin-top: 0; }
+h5 {hyphens: none; font-family: Heading5, Heading, Galley; -webkit-hyphens: none; -moz-hyphens: none; -o-hyphens: none; }
+.Chapter-rw .title-block-rw p { text-indent: 0; }
+.frontmatter-rw .title-block-rw p { text-indent: 0; }
+.backmatter-rw .title-block-rw p { text-indent: 0; }
+.frontmatter-rw .title-block-rw {padding-right: 1em; margin-bottom: 1em; padding-bottom: 0em; padding-top: 2em; font-family: FrontmatterTitleBlock, TitleBlock, Galley; padding-left: 1em; text-align: center; }
+.frontmatter-rw .title-block-rw h1 {font-size: 2em; font-weight: normal; color: rgb(0, 0, 0); font-family: FrontmatterTitle, TitleBlock, Galley; line-height: 1em; text-align: inherit; }
+.frontmatter-rw .title-block-rw .title-sub-rw {font-size: 1.5em; font-family: FrontmatterTitleSubTitle, FrontmatterTitleBlock, TitleBlock, Galley; line-height: 1em; text-align: inherit; }
+.frontmatter-rw .title-block-rw .title-author-rw {line-height: 1em; font-family: FrontmatterTitleAuthor, FrontmatterTitleBlock, TitleBlock, Galley; font-style: italic; text-align: inherit; }
+.frontmatter-rw .title-block-rw .title-contributor-rw {line-height: 1em; font-family: FrontmatterTitleContributor, FrontmatterTitleBlock, TitleBlock, Galley; font-style: italic; text-align: inherit; }
+.Chapter-rw .title-block-rw {padding-right: 1em; margin-bottom: 1em; padding-bottom: 0em; padding-top: 2em; font-family: ChapterTitleBlock, TitleBlock, Galley; padding-left: 1em; text-align: center; }
+.Chapter-rw .title-block-rw .title-num-rw {font-size: 1.6em; font-weight: normal; padding-bottom: 0.5em; text-align: inherit; font-family: ChapterTitleNumber, ChapterTitleBlock, TitleBlock, Galley; font-style: normal; line-height: 1em; }
+.Chapter-rw .title-block-rw h1 {font-size: 2em; font-weight: normal; color: rgb(0, 0, 0); line-height: 1em; padding-bottom: 0.5em; font-family: ChapterTitle, ChapterTitleBlock, TitleBlock, Galley; font-style: normal; text-align: inherit; }
+.Chapter-rw .title-block-rw .title-sub-rw {text-align: inherit; font-size: 1.5em; font-family: ChapterTitleSubTitle, ChapterTitleBlock, TitleBlock, Galley; line-height: 1em; padding-bottom: 0.5em; }
+.Chapter-rw .title-block-rw .title-author-rw {font-size: 1.1em; font-weight: normal; color: rgb(0, 0, 0); text-indent: 0; line-height: 1em; padding-bottom: 1em; font-family: ChapterTitleAuthor, ChapterTitleBlock, TitleBlock, Galley; font-style: italic; text-align: inherit; }
+.Chapter-rw .title-block-rw .title-contributor-rw {font-size: 1.1em; font-weight: normal; color: rgb(0, 0, 0); text-indent: 0; line-height: 1em; padding-bottom: 1em; font-family: ChapterTitleContributor, ChapterTitleBlock, TitleBlock, Galley; font-style: italic; text-align: inherit; }
+.backmatter-rw .title-block-rw {padding-right: 1em; margin-bottom: 1em; padding-bottom: 0em; padding-top: 2em; font-family: BackmatterTitleBlock, TitleBlock, Galley; padding-left: 1em; text-align: center; }
+.backmatter-rw .title-block-rw .title-num-rw {font-size: 1.5em; font-weight: normal; color: rgb(0, 0, 0); line-height: 1em; padding-bottom: 0.5em; font-family: BackmatterTitleNumber, BackmatterTitleBlock, TitleBlock, Galley; font-style: normal; text-align: inherit; }
+.backmatter-rw .title-block-rw h1 {font-size: 1.6em; font-weight: normal; color: rgb(0, 0, 0); line-height: 1em; padding-bottom: 0.5em; font-family: BackmatterTitle, BackmatterTitleBlock, TitleBlock, Galley; font-style: normal; text-align: inherit; }
+.backmatter-rw .title-block-rw .title-sub-rw {font-size: 1.5em; font-weight: normal; color: rgb(0, 0, 0); line-height: 1em; padding-bottom: 0.5em; font-family: BackmatterTitleSubTitle, BackmatterTitleBlock, TitleBlock, Galley; font-style: normal; text-align: inherit; }
+.backmatter-rw .title-block-rw .title-author-rw {font-size: 1.1em; font-weight: normal; line-height: 1em; padding-bottom: 0.5em; font-family: BackmatterTitleAuthor, BackmatterTitleBlock, TitleBlock, Galley; margin: 1em 0 0 0; font-style: italic; text-align: inherit; }
+.backmatter-rw .title-block-rw .title-contributor-rw {font-size: 1.1em; font-weight: normal; line-height: 1em; padding-bottom: 0.5em; font-family: BackmatterTitleContributor, BackmatterTitleBlock, TitleBlock, Galley; margin: 1em 0 0 0; font-style: italic; text-align: inherit; }
+.title-block-book-rw {font-size: 1em; font-family: BookTitlePage, Galley; line-height: 1em; padding-top: 4em; text-align: center; }
+.title-block-book-rw h1 {font-size: 2.5em; font-weight: normal; color: rgb(0, 0, 0); line-height: 1em; padding-bottom: 0.5em; font-family: BookTitle, BookTitlePage, Galley; font-style: normal; text-align: inherit; }
+.title-block-book-rw .title-sub-rw {font-size: 1.8em; font-weight: normal; color: rgb(0, 0, 0); text-indent: 0; line-height: 1em; padding-bottom: 1.5em; font-family: BookTitleSubTitle, BookTitlePage, Galley; font-style: normal; text-align: inherit; }
+.title-block-book-rw .title-author-rw {font-size: 1.7em; font-weight: normal; text-indent: 0; line-height: 1em; padding-bottom: 1.5em; font-family: BookTitleAuthor, BookTitlePage, Galley; font-style: normal; text-align: inherit; }
+.title-block-book-rw .title-contributor-rw {font-size: 1.3em; font-weight: normal; text-indent: 0; line-height: 1em; padding-bottom: 1.5em; font-family: BookTitleContributor, BookTitlePage, Galley; font-style: normal; text-align: inherit; }
+.imprint-rw {margin-bottom: 0.5em; border-top: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); margin-top: 2.00em; padding-bottom: 0.5em; padding-top: 0.5em; font-family: Imprint, BookTitlePage, Galley; text-align: center; }
+.imprint-rw p { text-align: center; font-style: normal; font-weight: normal; text-indent: 0; margin-bottom: 0.5em; }
+.title-block-book-rw p {font-size: 1em; line-height: 1em; padding-bottom: 0.5em; text-align: inherit; font-weight: normal; font-style: normal; text-indent: 0em; }
+.title-block-book-rw p+p { text-indent: 0em; }
+.imprint-rw p img { width: 50%; }
+.galley-rw ol { text-align: left; margin-top: 0.55em; margin-right: 0; margin-bottom: 0.55em; margin-left: 1.64em }
+.galley-rw li { padding-top: 0; padding-bottom: 0em; }
+.galley-rw ol li { list-style: decimal; }
+.galley-rw ol ol li { list-style: upper-latin; margin-left: 1.64em; }
+.galley-rw ol ol ol li { list-style: lower-latin; margin-left: 1.64em; }
+.galley-rw ol ol ol ol li { list-style: upper-roman; margin-left: 1.64em; }
+.galley-rw ol ol ol ol ol li { list-style: lower-roman; margin-left: 1.64em; }
+.galley-rw ol+p { text-indent: 0; }
+.galley-rw div+ol { margin-top: 0; }
+.galley-rw ol+div { margin-top: 0; }
+.list-named-rw { position: relative; padding: 0; margin: 0; }
+.list-named-rw ol { list-style-type: none; }
+.list-named-rw ol li { list-style-type: none; }
+.list-named-rw p { text-indent: 0; }
+.list-named-rw p+p { text-indent: 0; }
+.named-lists-rw { margin-top: 1em; margin-bottom: 1em; }
+.list-toc-rw ol { line-height: 1.2em; margin-left: 0em; }
+li.toc-fm-rw { font-size: 1em; font-style: italic; font-weight: normal; text-indent: -2em; padding-top: 0; padding-bottom: 0em; margin-right: 2em; margin-bottom: 0.25em; margin-left: 4em !important; }
+li.toc-bm-rw { font-size: 1em; font-style: italic; font-weight: normal; text-indent: -2em; padding-top: 0; padding-bottom: 0em; margin-right: 2em; margin-bottom: 0.25em; margin-left: 4em !important; }
+li.toc-chapter-rw { font-size: 1em; font-style: normal; font-weight: normal; padding-top: 0; padding-bottom: 0.5em; margin-right: 2em; margin-left: 2em !important; }
+li.toc-fm-rw+li.toc-chapter-rw { padding-top: 0.5em; }
+li.toc-chapter-rw+li.toc-bm-rw { padding-top: 0.5em; }
+.block-rw h4 { font-size: 0.9em; line-height: 1.2em; text-align: left; text-indent: 0; font-style: normal; font-weight: bold; margin-top: 1em; margin-right: 0; margin-bottom: 1em; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; }
+.block-rw h5 { font-size: 0.9em; line-height: 1.2em; text-align: left; text-indent: 0; font-style: italic; font-weight: bold; margin-top: 1em; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; }
+.block-rw h6 { font-size: 0.9em; line-height: 1.2em; text-align: left; font-style: italic; margin-top: 0.5em; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; }
+.section-break { font-size: 12px; font-weight: bold; font-family: Arial, sans-serif; text-align: center; background-color: rgb(220, 220, 220); border-top: 1px solid rgb(120, 120, 120); border-bottom: 1px solid rgb(120, 120, 120); padding-top: 15px; }
+p.alt-rw { font-family: sans-serif; }
+.copyright-top {
+    margin-top:4em;
+    margin-bottom:0em;
+    text-align:center;
+}
+.center1 {
+    margin-top: 1em;
+}
+.copyright1{
+    margin-top: 1em;
+}

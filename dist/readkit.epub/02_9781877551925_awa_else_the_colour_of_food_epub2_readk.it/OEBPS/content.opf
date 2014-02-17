@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta content="Adobe InDesign" name="generator">
+    <dc:title>The Colour of Food (preview)</dc:title>
+    <dc:creator>Anne Else</dc:creator>
+    <dc:publisher>Awa Press</dc:publisher>
+    <dc:date>2013</dc:date>
+    <dc:identifier id="BookId" opf:scheme="ISBN">9781877551925</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright © Anne Else 2013</dc:rights>
+    <dc:description>When Anne Else married at 19, although she’d grown up above a grocery shop she’d never cooked a meal. Despite a shaky start she went on to become an enthusiastic cook – with a little help from Nancy Spain, Katharine Whitehorn, Elizabeth David, and the Duchess of Windsor ('Watch out. If you don’t take care you may serve an entire meal pinkish mauve, from lobster bisque to sherbet.') In this captivating take-you-there memoir, Else tells of her life, from marriage and motherhood to becoming a feminist, divorcing and remarrying, finding her birth mother, tragically losing family members, and in her 60s forging a lively community of new friends through her food blog. Delicious recipes from every era of her cooking career are included.</dc:description>
+    <meta name="cover" content="cover-image">
+    <meta content="0.6.0" name="Sigil version">
+    <dc:date opf:event="modification">2013-04-08</dc:date>
+  </meta></meta></meta></metadata>
+  <manifest>
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Images/title.jpg" id="title" media-type="image/jpeg"/>
+    <item href="Images/spoon.jpg" id="spoon" media-type="image/jpeg"/>
+    <item href="Images/anne.jpg" id="anne" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/contents.xhtml" id="contents.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/note.xhtml" id="note.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/tostartwith.xhtml" id="tostartwith.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/morethanenough.xhtml" id="morethanenough.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/more.xhtml" id="more.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  
+            <!-- './readk.it'  -->
+                <item id="readk_it_favicon_ico" href="readk.it/favicon.ico" media-type="image/vnd.microsoft.icon"/>
+                <item id="readk_it_index_html" href="readk.it/index.html" media-type="text/plain"/>
+                <item id="readk_it_offline_manifest" href="readk.it/offline.manifest" media-type="text/plain"/>
+            <!-- './readk.it/css'  -->
+                <item id="readk_it_css_fontello_css" href="readk.it/css/fontello.css" media-type="text/plain"/>
+                <item id="readk_it_css_screen_css" href="readk.it/css/readkit-screen.css" media-type="text/plain"/>
+                <item id="readk_it_css_drag_and_drop_css" href="readk.it/css/drag_and_drop.css" media-type="text/plain"/>
+                <item id="readk_it_css_add-to-homescreen_style_add2home_css" href="readk.it/css/add2home.css" media-type="text/plain"/>
+            <!-- './readk.it/fonts'  -->
+            <!-- './readk.it/fonts/fontello'  -->
+            <!-- './readk.it/fonts/fontello/font'  -->
+                <item id="readk_it_fonts_fontello_font_fontello_ttf" href="readk.it/fonts/fontello/font/fontello.ttf" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_fontello_font_fontello_woff" href="readk.it/fonts/fontello/font/fontello.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/Lora'  -->
+                <item id="readk_it_fonts_Lora_Lora-Bold_woff" href="readk.it/fonts/Lora/Lora-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-BoldItalic_woff" href="readk.it/fonts/Lora/Lora-BoldItalic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora-Italic_woff" href="readk.it/fonts/Lora/Lora-Italic.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_Lora_Lora_woff" href="readk.it/fonts/Lora/Lora.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/fonts/SourceSansPro'  -->
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Bold_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Bold.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-BoldIt_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-BoldIt.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-It_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-It.woff" media-type="application/vnd.ms-opentype"/>
+                <item id="readk_it_fonts_SourceSansPro_SourceSansPro-Regular_woff" href="readk.it/fonts/SourceSansPro/SourceSansPro-Regular.woff" media-type="application/vnd.ms-opentype"/>
+            <!-- './readk.it/images'  -->
+                <item id="readk_it_images_apple-touch-icon-114x114_png" href="readk.it/images/apple-touch-icon-114x114.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-144x144_png" href="readk.it/images/apple-touch-icon-144x144.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-57x57_png" href="readk.it/images/apple-touch-icon-57x57.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-icon-72x72_png" href="readk.it/images/apple-touch-icon-72x72.png" media-type="image/png"/>
+                <item id="readk_it_images_site_preloader_gif" href="readk.it/images/site_preloader.gif" media-type="image/gif"/>
+                <item id="readk_it_images_spinner_gif" href="readk.it/images/spinner.gif" media-type="image/gif"/>
+                <item id="readk_it_images_apple-touch-startup-image-320x460_png" href="readk.it/images/apple-touch-startup-image-320x460.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x920_png" href="readk.it/images/apple-touch-startup-image-640x920.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-640x1096_png" href="readk.it/images/apple-touch-startup-image-640x1096.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-748x1024_png" href="readk.it/images/apple-touch-startup-image-748x1024.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-768x1004_png" href="readk.it/images/apple-touch-startup-image-768x1004.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-1536x2008_png" href="readk.it/images/apple-touch-startup-image-1536x2008.png" media-type="image/png"/>
+                <item id="readk_it_images_apple-touch-startup-image-2048x1496_png" href="readk.it/images/apple-touch-startup-image-2048x1496.png" media-type="image/png"/>
+            <!-- './readk.it/js'  -->
+                <item id="readk_it_js_client_config_js" href="readk.it/js/client.config.js" media-type="text/javascript"/>
+                <item id="readk_it_js_readkit_js" href="readk.it/js/readkit.js" media-type="text/javascript"/>
+            <!-- './readk.it/js/lib/zip'  -->
+                <item id="readk_it_js_lib_zip_inflate_js" href="readk.it/js/lib/zip/inflate.js" media-type="text/javascript"/>
+            </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="contents.xhtml"/>
+    <itemref idref="dedication.xhtml"/>
+    <itemref idref="note.xhtml"/>
+    <itemref idref="tostartwith.xhtml"/>
+    <itemref idref="morethanenough.xhtml"/>
+    <itemref idref="more.xhtml"/>
+    <itemref idref="imprint.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>

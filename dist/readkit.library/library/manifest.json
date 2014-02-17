@@ -1,0 +1,52 @@
+[
+
+{"name": "Civilisation (preview)", "version": "2.0", "identifier": "9781877551789", "path": "01_9781877551789_awa_braunias_civilisation_epub2_readk.it/", "total_pages": 6, "cover": "./01_9781877551789_awa_braunias_civilisation_epub2_readk.it/META-INF/../OEBPS/Images/cover.jpeg", "solo": "9781877551789_civilisation__preview_.html"}
+,
+{"name": "The Colour of Food (preview)", "version": "2.0", "identifier": "9781877551925", "path": "02_9781877551925_awa_else_the_colour_of_food_epub2_readk.it/", "total_pages": 9, "cover": "./02_9781877551925_awa_else_the_colour_of_food_epub2_readk.it/META-INF/../OEBPS/Images/cover.jpg", "solo": "9781877551925_the_colour_of_food__preview_.html"}
+,
+{"name": "Readk.it: A Manifesto", "version": "3.0", "identifier": "readkit_a_manifesto", "path": "03_readkit_manifesto/", "total_pages": 3, "cover": "./03_readkit_manifesto/META-INF/../OEBPS/images/cover_front.png", "solo": "readkit_a_manifesto_readk_it__a_manifesto.html"}
+,
+{"name": "The Metamorphosis", "version": "2.0", "identifier": "urn:uuid:f4f6a666-aeb0-11e2-a5c2-001cc0a62c0b", "path": "04_kafka_the_metamorphosis/", "total_pages": 8, "cover": "./04_kafka_the_metamorphosis/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_f4f6a666-aeb0-11e2-a5c2-001cc0a62c0b_the_metamorphosis.html"}
+,
+{"name": "Report from Christchurch (preview)", "version": "3.0", "identifier": "9781927131862", "path": "05_9781927131862_bwb_macfie_report_from_christchruch_epub3_readk.it/", "total_pages": 13, "cover": "./05_9781927131862_bwb_macfie_report_from_christchruch_epub3_readk.it/META-INF/../OPS/images/9781927131862_cover_epub.jpg", "solo": "9781927131862_report_from_christchurch__preview_.html"}
+,
+{"name": "Flight of the Huia (preview)", "version": "2.0", "identifier": "978-1-927145-20-3", "path": "06_9781927145203_cup_wilson_flight_of_the_huia_epub2_readk.it/", "total_pages": 8, "cover": "./06_9781927145203_cup_wilson_flight_of_the_huia_epub2_readk.it/META-INF/../OPS/9781927145203_cover_epub.jpg", "solo": "978-1-927145-20-3_flight_of_the_huia__preview_.html"}
+,
+{"name": "The Tell-Tale Heart", "version": "2.0", "identifier": "urn:uuid:c38d0808-a9f7-11e2-b806-001cc0a62c0b", "path": "07_poe_the_tell_tale_heart/", "total_pages": 6, "cover": "./07_poe_the_tell_tale_heart/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_c38d0808-a9f7-11e2-b806-001cc0a62c0b_the_tell_tale_heart.html"}
+,
+{"name": "I Got His Blood on Me: Frontier Tales (preview)", "version": "2.0", "identifier": "978-0-86473-830-1", "path": "08_9780864738301_vup_patchett_i_got_his_blood_on_me_epub2_readk.it/", "total_pages": 9, "cover": "./08_9780864738301_vup_patchett_i_got_his_blood_on_me_epub2_readk.it/META-INF/../OEBPS/images/front-cover.jpg", "solo": "978-0-86473-830-1_i_got_his_blood_on_me__frontier_tales__preview_.html"}
+,
+{"name": "The Intentions Book (preview)", "version": "2.0", "identifier": "978-0-86473-879-0", "path": "09_9780864738790_vup_fenster_the_intentions_epub2_readk.it/", "total_pages": 9, "cover": "./09_9780864738790_vup_fenster_the_intentions_epub2_readk.it/META-INF/../OEBPS/images/cover_page.jpg", "solo": "978-0-86473-879-0_the_intentions_book__preview_.html"}
+,
+{"name": "Unspeakable Secrets of the Aro Valley (preview)", "version": "2.0", "identifier": "9780864739407", "path": "10_9780864739407_vup_mclauchlan_unspeakable_secrets_epub2_readk.it/", "total_pages": 9, "cover": "./10_9780864739407_vup_mclauchlan_unspeakable_secrets_epub2_readk.it/META-INF/../OEBPS/image/cover.jpg", "solo": "9780864739407_unspeakable_secrets_of_the_aro_valley__preview_.html"}
+,
+{"name": "Edmund Hillary", "version": "2.0", "identifier": "mch0002-hillary", "path": "11_mch0002-hillary/", "total_pages": 5, "cover": "./11_mch0002-hillary/META-INF/../OEBPS/Images/mch0002-hillary-cover-sm.gif", "solo": "mch0002-hillary_edmund_hillary.html"}
+,
+{"name": "New Zealand Women and the Vote", "version": "2.0", "identifier": "mch0015-suffrage", "path": "12_mch0015-suffrage/", "total_pages": 10, "cover": "./12_mch0015-suffrage/META-INF/../OEBPS/Images/mch0015-new-zealand-women-and-the-vote.jpg", "solo": "mch0015-suffrage_new_zealand_women_and_the_vote.html"}
+,
+{"name": "Of Money, and Other Economic Essays", "version": "2.0", "identifier": "urn:uuid:167756ea-b1e6-11e2-8f74-001cc0a62c0b", "path": "13_hume_of_money_and_other_economic_essays/", "total_pages": 17, "cover": "./13_hume_of_money_and_other_economic_essays/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_167756ea-b1e6-11e2-8f74-001cc0a62c0b_of_money__and_other_economic_essays.html"}
+,
+{"name": "At the Bay", "version": "2.0", "identifier": "84ba3092-022a-460d-bb4f-fa558a022793", "path": "14_mansfield_at_the_bay/", "total_pages": 13, "cover": "./14_mansfield_at_the_bay/META-INF/../OEBPS/Images/cover.jpg", "solo": "84ba3092-022a-460d-bb4f-fa558a022793_at_the_bay.html"}
+,
+{"name": "Vanity Fair", "version": "2.0", "identifier": "urn:uuid:9aa56e0a-329e-11e3-9fea-001cc0a62c0b", "path": "15_thackeray_vanity_fair/", "total_pages": 73, "cover": "./15_thackeray_vanity_fair/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_9aa56e0a-329e-11e3-9fea-001cc0a62c0b_vanity_fair.html"}
+,
+{"name": "In the Early World", "version": "2.0", "identifier": "9781927151099", "path": "16_9781927151099_nzcer_richardson_in_the_early_world_epub2_readk.it/", "total_pages": 12, "cover": "./16_9781927151099_nzcer_richardson_in_the_early_world_epub2_readk.it/META-INF/../OEBPS/images/front.jpg", "solo": "9781927151099_in_the_early_world.html"}
+,
+{"name": "Planting seeds (preview)", "version": "2.0", "identifier": "978-1-927151-36-5", "path": "17_9781927151365_nzcer_sandretto_planting_seeds_epub2_readk.it/", "total_pages": 12, "cover": "./17_9781927151365_nzcer_sandretto_planting_seeds_epub2_readk.it/META-INF/../OEBPS/images/cover_front.jpg", "solo": "978-1-927151-36-5_planting_seeds__preview_.html"}
+,
+{"name": "Understanding NCEA (preview)", "version": "2.0", "identifier": "978-1-927231-20-3", "path": "18_9781927231203_nzcer_madjar_understanding_ncea_epub2_readk.it/", "total_pages": 9, "cover": "./18_9781927231203_nzcer_madjar_understanding_ncea_epub2_readk.it/META-INF/../OEBPS/images/cover_front.jpg", "solo": "978-1-927231-20-3_understanding_ncea__preview_.html"}
+,
+{"name": "set 2010 part 3: Research Information for Teachers", "version": "2.0", "identifier": "set_2010_part_3", "path": "19_set_2010_part 3_epub2.readk.it/", "total_pages": 15, "cover": "./19_set_2010_part 3_epub2.readk.it/META-INF/../OEBPS/images/cover_front.jpg", "solo": "set_2010_part_3_set_2010_part_3__research_information_for_teachers.html"}
+,
+{"name": "First Love", "version": "2.0", "identifier": "urn:uuid:5fc58334-b1e2-11e2-8f74-001cc0a62c0b", "path": "20_turgenev_first_love/", "total_pages": 28, "cover": "./20_turgenev_first_love/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_5fc58334-b1e2-11e2-8f74-001cc0a62c0b_first_love.html"}
+,
+{"name": "A House of Pomegranates", "version": "2.0", "identifier": "urn:uuid:22f0eb6c-aa33-11e2-96f7-001cc0a62c0b", "path": "21_wilde_a_house_of_pomegranates/", "total_pages": 9, "cover": "./21_wilde_a_house_of_pomegranates/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_22f0eb6c-aa33-11e2-96f7-001cc0a62c0b_a_house_of_pomegranates.html"}
+,
+{"name": "Right Ho, Jeeves", "version": "2.0", "identifier": "urn:uuid:90be88b0-32a1-11e3-bcbb-001cc0a62c0b", "path": "22_wodehouse_right_ho_jeeves/", "total_pages": 29, "cover": "./22_wodehouse_right_ho_jeeves/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_90be88b0-32a1-11e3-bcbb-001cc0a62c0b_right_ho__jeeves.html"}
+,
+{"name": "A Room of One's Own", "version": "2.0", "identifier": "urn:uuid:fec04522-a7c0-11e2-8a72-001cc0a62c0b", "path": "23_woolf_a_room_of_ones_own/", "total_pages": 13, "cover": "./23_woolf_a_room_of_ones_own/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_fec04522-a7c0-11e2-8a72-001cc0a62c0b_a_room_of_one_s_own.html"}
+,
+{"name": "Night and Day", "version": "2.0", "identifier": "urn:uuid:0c032e88-3304-11e3-b35e-001cc0a62c0b", "path": "24_woolf_night_and_day/", "total_pages": 39, "cover": "./24_woolf_night_and_day/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_0c032e88-3304-11e3-b35e-001cc0a62c0b_night_and_day.html"}
+,
+{"name": "Pride and Prejudice", "version": "2.0", "identifier": "urn:uuid:af27173e-ad1a-11e2-beff-001cc0a62c0b", "path": "25_austen_pride_and_prejudice/", "total_pages": 69, "cover": "./25_austen_pride_and_prejudice/META-INF/../OPS/images/cover.jpg", "solo": "urn_uuid_af27173e-ad1a-11e2-beff-001cc0a62c0b_pride_and_prejudice.html"}
+]

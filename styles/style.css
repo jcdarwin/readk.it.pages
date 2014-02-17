@@ -1,0 +1,352 @@
+@font-face {
+  font-family: "Lato";
+  src: local("Lato-Regular"), url('../font/Lato/Lato-Reg.ttf') format('truetype'), url('../font/Lato/Lato-Reg.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato-Bold"), url('../font/Lato/Lato-Bol.ttf') format('truetype'), url('../font/Lato/Lato-Bol.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato-Italic"), url('../font/Lato/Lato-RegIta.ttf') format('truetype'), url('../font/Lato/Lato-RegIta.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+    margin: 0 auto;
+    line-height: 1.7em;
+    background-color: #f2f2f2;
+}
+
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+    font-family: "Lato";
+}
+
+.l-box {
+    padding: 1em;
+}
+
+.error {
+    text-align: center;
+}
+
+.header {
+    margin: 0 0;
+}
+
+    .header .pure-menu {
+        padding: 0.5em;
+    }
+
+        .header .pure-menu li a:hover,
+        .header .pure-menu li a:focus {
+            background: none;
+            border: none;
+            color: #f2f2f2;
+        }
+
+body .primary-button {
+    background: #56a2d3;
+    color: #fff;
+}
+
+.splash {
+    margin: 0 auto;
+    padding: 1.5em 0 0.5em 0;
+    background: #E1E1E1;
+    border-bottom-left-radius: 0.2em;
+    border-bottom-right-radius: 0.2em;
+}
+.splash .splash-head {
+    font-size: 300%;
+    margin: 0em 0;
+    line-height: 1.2em;
+}
+.splash .splash-subhead {
+    color: #999;
+    font-weight: 300;
+    line-height: 1.4em;
+}
+.splash .primary-button {
+    font-size: 150%;
+}
+
+.content {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content .content-subhead {
+    color: #999;
+    padding-bottom: 0.3em;
+    text-transform: uppercase;
+    margin: 0;
+    border-bottom: 2px solid #bbbbbb;
+    display: inline-block;
+}
+
+.content-subhead {
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+}
+
+.content .content-ribbon {
+    margin: 0 3em 0 3em;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.ribbon {
+/*    background: #bbbbbb; */
+    text-align: center;
+    padding: 2em;
+    color: #999;
+}
+    .ribbon h2 {
+        display: inline;
+        font-weight: normal;
+    }
+
+.footer {
+    background: #111;
+    color: #666;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 80%;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+}
+
+.hero-icon {
+    font-size: 14em;
+    color: #56a2d3;
+}
+
+.hero-icon-large {
+    font-size: 18em;
+    color: #56a2d3;
+}
+
+@media only screen and (max-width: 950px) {
+    .hero-icon-large {
+        font-size: 14em;
+    }
+}
+
+a:link {
+    color: #cc333f;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #cc333f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cc333f;
+    text-decoration: none;
+}
+
+a:active {
+    color: #cc333f;
+    text-decoration: none;
+}
+
+a.hero-link {
+    border-radius: 0.2em;
+}
+
+a.hero-link:link, a.hero-link:visited {
+    color: #ffffff;
+}
+
+a.hero-link:hover, a.hero-link:focus {
+    color: #f2f2f2;
+}
+
+a.hero-link:active {
+    color: #ffffff;
+}
+
+.color-box a.header {
+    width: 100%;
+    color: #ffffff;
+    margin-top: 1em;
+    padding: 0.5em;
+    border-radius: 0.2em;
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+}
+
+.color-box a.header {
+    color: #ffffff;
+}
+
+.solo {
+    background-color: #cc333f;
+}
+
+a.solo:hover, a.solo:focus {
+    color: #f2f2f2;
+    background-color: #bf2632;
+}
+
+.library {
+    background-color: #eb6841;
+}
+
+a.library:hover, a.library:focus {
+    color: #f2f2f2;
+    background-color: #de5b34;
+}
+
+.epub {
+    background-color: #fbb829;
+}
+
+a.epub:hover, a.epub:focus {
+    color: #f2f2f2;
+    background-color: #eeab1c;
+}
+
+.reader {
+    background-color: #6a4a3c;
+}
+
+a.reader:hover, a.reader:focus {
+    color: #f2f2f2;
+    background-color: #5d3d2f;
+}
+
+/*
+** Solo pods
+*/
+
+.solo-pod {
+    float: left;
+    text-align: center;
+    margin-bottom: 1.5em;
+    font-size: 0.85em;
+}
+
+.solo-pod a {
+    overflow: hidden;
+}
+
+.solo-pod a img {
+    width: 180px;
+    height: 247px;
+    opacity: .8;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+.solo-pod a img:hover {
+    opacity: 1;
+}
+
+/*
+** Responsive nav styles
+** http://responsive-nav.com/
+*/
+
+.nav-collapse,
+.nav-collapse * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.nav-collapse,
+.nav-collapse ul {
+    list-style: none;
+    width: 100%;
+    float: left;
+}
+
+.nav-collapse ul li:last-child a {
+    border: none;
+}
+
+.nav-collapse li {
+    float: left;
+    width: 100%;
+}
+
+@media screen and (min-width: 40em) {
+    .nav-collapse li {
+        width: 16.666%;
+        *width: 19.9%; /* IE7 Hack */
+        _width: 19%; /* IE6 Hack */
+    }
+}
+
+.nav-collapse a {
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    background: #56a2d3;
+    border-bottom: 1px solid white;
+    padding: 0.7em 1em;
+    float: left;
+}
+
+@media screen and (min-width: 40em) {
+    .nav-collapse a {
+        margin: 0;
+        padding: 1em;
+        float: left;
+        text-align: center;
+        border-bottom: 0;
+        border-right: 1px solid white;
+    }
+}
+
+@media screen and (max-width: 55.7em) {
+    .nav-collapse ul li a {
+        height: 5.2em;
+    }
+}
+
+.nav-toggle {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 70px;
+    height: 55px;
+    float: right;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: #f2f2f2 url("../../images/hamburger.png") no-repeat 50% 33%;
+    margin-bottom:1em;
+}
+
+@media screen 
+    and (-webkit-min-device-pixel-ratio: 1.3), screen 
+    and (min--moz-device-pixel-ratio: 1.3), screen 
+    and (-o-min-device-pixel-ratio: 2 / 1), screen 
+    and (min-device-pixel-ratio: 1.3), screen 
+    and (min-resolution: 192dpi), screen 
+    and (min-resolution: 2dppx) {
+    .nav-toggle {
+        background-image: url("../../images/hamburger-retina.png");
+        -webkit-background-size: 100px 100px;
+        -moz-background-size: 100px 100px;
+        -o-background-size: 100px 100px;
+        background-size: 100px 100px;
+    }
+}

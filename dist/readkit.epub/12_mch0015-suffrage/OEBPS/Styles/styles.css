@@ -1,0 +1,173 @@
+body {
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 4em;
+padding-left: 0;
+padding-right: 0;
+text-align: center;
+}
+
+div {
+text-align: center;
+}
+
+ul, ol { 
+
+text-align:left;
+}
+
+img {
+
+
+}
+
+h1 {
+font-weight: bold;
+font-size: 2em;
+text-align: center;
+margin-top: 1.40em;
+margin-bottom: 1.40em;
+margin-left: 25px;
+margin-right: 25px;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+h2 {
+font-weight: bold;
+font-size: 1.5em;
+text-align: center;
+margin-top: 1.5em;
+margin-bottom: 1.2em;
+margin-left: 25px;
+margin-right: 25px;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+h3 {
+font-weight: bold;
+font-size: 1.00em;
+text-align: center;
+margin-top: 1.5em;
+margin-bottom: 1em;
+margin-left: 25px;
+margin-right: 25px;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+.abstract {
+font-style: italic;
+font-size: 1.10em;
+text-align: center;
+margin-top: 0.00em;
+margin-right: 15%;
+margin-bottom: 5em;
+margin-left: 15%;
+line-height: 120.00%;
+}
+
+p {
+font-size: 1.00em;
+text-align: left;
+margin-top: 0.00em;
+margin-bottom: 0.56em;
+margin-left: 0;
+margin-right: 0;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+.media {
+font-size: 1.00em;
+text-align: center;
+margin-top: 3em;
+margin-right: 15%;
+margin-bottom: 1em;
+margin-left: 15%;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+h1.QR {
+font-weight: bold;
+font-size: 2em;
+text-align: center;
+margin-top: 2em;
+margin-bottom: 1.5em;
+margin-left: 7%;
+margin-right: 7%;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+p.QR {
+font-size: 1em;
+text-align: center;
+margin-top: 0em;
+margin-right: 5%;
+margin-bottom: 1em;
+margin-left: 5%;
+}
+
+.caption {
+font-style: normal;
+font-size: 0.8em;
+text-align: left;
+margin-top: 1em;
+margin-right: 15%;
+margin-bottom: 4em;
+margin-left: 15%;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+.quote {
+font-style: normal;
+font-size: 0.8em;
+text-align: left;
+margin-top: 1em;
+margin-right: 10%;
+margin-bottom: 1em;
+margin-left: 10%;
+text-indent: 0.00em;
+line-height: 120.00%;
+}
+
+a {
+color: #455280;
+text-decoration: none;
+}
+
+.prelims:first-child {
+margin-top: 5em;
+width: 85%;
+}
+
+.prelims {
+font-size: 0.8em;
+text-align: center;
+margin-top: 2em;
+margin-right: 5%;
+margin-bottom: 0.56em;
+margin-left: 5%;
+line-height: 120.00%;
+}
+
+.prelims em {
+font-style: italic;
+}
+
+dl, dt, dd{
+text-align: left;
+}
+dt{
+font-weight: bold;
+margin-top:2em;
+font-size:1.2em;
+
+}
+dd{
+margin-left:0;
+}
