@@ -1,3 +1,25 @@
+# GitHub Pages
+We host this site on GitHub Pages.
+
+In order to do so, we need to
+
+## Add a CNAME record to our repo
+
+We need to [add a CNAME record to the root of our repo](https://help.github.com/articles/adding-a-cname-file-to-your-repository/) which has as the contents, our domain:
+
+    readk.it
+
+## Configure A-Records
+
+We need to [configure A-Records](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/) with our DNS host, such that the results of:
+
+    dig readk.it +nostats +nocomments +nocmd
+
+should be:
+
+    readk.it.		120	IN	A	192.30.252.154
+    readk.it.		120	IN	A	192.30.252.153
+
 # [YUI Purecss](http://purecss.io/) skeleton for [DocPad](https://github.com/bevry/docpad)
 Simple, flexible and clean HTML, CSS, for popular user interface components and interactions.
 
