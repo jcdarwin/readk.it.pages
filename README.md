@@ -17,8 +17,10 @@ We need to [configure A-Records](https://help.github.com/articles/tips-for-confi
 
 should be:
 
-    readk.it.		120	IN	A	192.30.252.154
-    readk.it.		120	IN	A	192.30.252.153
+    readk.it.		120	IN	A	185.199.108.153
+    readk.it.		120	IN	A	185.199.109.153
+    readk.it.		120	IN	A	185.199.110.153
+    readk.it.		120	IN	A	185.199.111.153
 
 # [YUI Purecss](http://purecss.io/) skeleton for [DocPad](https://github.com/bevry/docpad)
 Simple, flexible and clean HTML, CSS, for popular user interface components and interactions.
